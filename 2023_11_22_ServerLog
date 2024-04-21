@@ -1,0 +1,57 @@
+2023-11-22 16:54:15.222368 [info]: timer tick
+2023-11-22 18:12:56.671552 [info]: timer tick
+2023-11-22 18:13:01.671868 [info]: timer tick
+2023-11-22 18:13:06.671992 [info]: timer tick
+2023-11-22 18:13:11.672092 [info]: timer tick
+2023-11-22 18:13:16.672261 [info]: timer tick
+2023-11-22 18:13:21.672758 [info]: timer tick
+2023-11-22 18:13:26.673145 [info]: timer tick
+2023-11-22 18:13:31.673497 [info]: timer tick
+2023-11-22 18:13:36.673777 [info]: timer tick
+2023-11-22 18:13:41.674018 [info]: timer tick
+2023-11-22 18:13:46.674247 [info]: timer tick
+2023-11-22 18:13:51.674544 [info]: timer tick
+2023-11-22 18:13:56.674986 [info]: timer tick
+2023-11-22 18:14:01.675135 [info]: timer tick
+2023-11-22 18:14:06.675408 [info]: timer tick
+2023-11-22 18:14:09.950787 [info]: deal with the client(172.27.164.203)
+2023-11-22 18:14:09.951343 [info]: close fd 21
+2023-11-22 18:14:09.954095 [info]: deal with the client(172.27.164.203)
+2023-11-22 18:14:09.954500 [info]: close fd 20
+2023-11-22 18:14:09.959627 [info]: deal with the client(172.27.164.203)
+2023-11-22 18:14:11.675725 [info]: timer tick
+2023-11-22 18:14:16.675857 [info]: timer tick
+2023-11-22 18:14:18.598884 [info]: deal with the client(172.27.164.203)
+2023-11-22 18:14:18.599368 [info]: close fd 21
+2023-11-22 18:14:21.675988 [info]: timer tick
+2023-11-22 18:14:26.676106 [info]: timer tick
+2023-11-22 18:14:48.763422 [info]: timer tick
+2023-11-22 18:14:53.763561 [info]: timer tick
+2023-11-22 18:14:58.763675 [info]: timer tick
+2023-11-22 18:15:00.553510 [info]: deal with the client(172.27.164.203)
+2023-11-22 18:15:03.764047 [info]: timer tick
+2023-11-22 18:15:05.342817 [info]: close fd 22
+2023-11-22 18:28:34.450688 [info]: timer tick
+2023-11-22 18:28:34.789721 [info]: deal with the client(172.27.164.203)
+2023-11-22 18:28:34.790231 [info]: close fd 21
+2023-11-22 18:38:49.415880 [info]: timer tick
+2023-11-22 18:38:54.415984 [info]: timer tick
+2023-11-22 18:38:55.054602 [info]: deal with the client(172.27.164.203)
+2023-11-22 18:38:57.467458 [info]: close fd 22
+2023-11-22 18:38:59.416499 [info]: timer tick
+2023-11-22 18:39:04.417062 [info]: timer tick
+2023-11-22 18:39:09.417432 [info]: timer tick
+2023-11-22 18:42:07.630543 [info]: deal with the client(172.27.164.203)
+2023-11-22 18:42:07.734090 [info]: close fd 21
+2023-11-22 18:42:09.599895 [info]: timer tick
+2023-11-22 18:42:14.600066 [info]: timer tick
+2023-11-22 18:44:28.950481 [info]: timer tick
+2023-11-22 18:44:32.880080 [info]: deal with the client(172.27.164.203)
+2023-11-22 18:44:32.928455 [info]: close fd 22
+2023-11-22 18:44:33.950574 [info]: timer tick
+2023-11-22 18:44:38.950794 [info]: timer tick
+2023-11-22 18:44:43.950929 [info]: timer tick
+2023-11-22 19:30:02.898840 [info]: deal with the client(172.27.164.203)
+2023-11-22 19:30:03.201069 [info]: timer tick
+2023-11-22 19:30:07.173900 [info]: close fd 22
+2023-11-22 19:30:08.201182 [info]: timer tick

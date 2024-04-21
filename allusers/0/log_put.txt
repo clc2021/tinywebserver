@@ -1,0 +1,11 @@
+./files/log_put.txt------WebKitFormBoundaryIi3TBgQBcQVXeHKA
+Content-Disposition: form-data; name="upload"; filename="log_put.txt"
+Content-Type: text/plain
+
+2023_10_29 10:39
+1. 大文件传输的问题？
+2023-10-29 15:42:49.557349 [info]: X-Requested-With: XMLHttpRequest
+2023-10-29 15:42:49.557367 [info]: oop!unknow header: X-Requested-With: XMLHttpRequest
+怎么处理？
+
+------WebKitFormBoundaryIi3TBgQBcQVXeHKA--

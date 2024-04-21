@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>$.ajax</title>
+</head>
+<body>
+    <button id="bt">查询数据</button>
+</body>
+<script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
+    <script type="text/javascript">
+        
+ $(function () {
+        $("#bt").click(function () {
+            $.ajax({
+                type: "get",        // 请求方式
+                url: "./data.txt", // 请求路径
+                dataType: "json",   // 预期返回一个 json 类型数据
+                headers: { 
+                    "Access-Control-Allow-Origin": "*",
+                    "Access-Control-Allow-Methods": "POST",
+                    "Access-Control-Allow-Headers": "Origin, X-Requested-With, Content-Type, Accept",   
+                },
+                processData:false,        
+                crossDomain:true,
+                crossOrigin:true,
+                contentType:false,
+                success: function (data) {   // data是形参名，代表返回的数据
+                    // Dom 操作
+                    // 创建 ul
+                    var ul = $('<ul></ul>');
+                    // 遍历 data
+                    for (let i = 0; i < data.length; i++) {
+                        // 创建 li
+                        var li = '<li>' + data[i].userName + '</li>';
+                        // 将 li 追加到 ul 中
+                        ul.append(li);
+                    }
+                    // 将 ul 追加到 body 中
+                    $("body").append(ul);
+                }
+            });
+        });
+        
+ })
+    </script>
+</html>

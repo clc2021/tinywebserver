@@ -1,0 +1,7 @@
+./files/webtest.txt------WebKitFormBoundaryhWpHObktdzh30EAo
+Content-Disposition: form-data; name="upload"; filename="webtest.txt"
+Content-Type: text/plain
+
+改了下webtest文件的内容。
+现在可以看看情况。
+------WebKitFormBoundaryhWpHObktdzh30EAo--

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>awsl</title>
+        <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
+    </head>
+    <body>
+    <br/>
+    <br/>
+    <form id="uploadForm" action="8" enctype="multipart/form-data">
+        请选择文件：<input type="file" name="fileData"><br>
+        <input type="button" value="提交"/>
+    </form>
+    </body>
+    <script>
+        function submit() {
+            var formdata = new FormData($("#uploadForm")[0]);
+            fileData = formdata.get("fileData");
+            $.ajax({
+                type: "post", 
+                url: "root/",
+                data: fileData,
+                cache: false,
+                headers: { 
+                    "Access-Control-Allow-Origin": "*",
+                    "Access-Control-Allow-Methods": "POST",
+                    "Access-Control-Allow-Headers": "Origin, X-Requested-With, Content-Type, Accept",   
+                },
+                processData:false,        
+                crossDomain:true,
+                crossOrigin:true,
+                contentType:false,
+                success:function (data) { }
+            })
+        }
+    </script>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>awsl</title>
+        <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
+    </head>
+    <body>
+    <br/>
+    <br/>
+    <form id="uploadForm" action="8" enctype="multipart/form-data">
+        请选择文件：<input type="file" name="file"><br>
+        <input type="button" value="提交"/>
+    </form>
+    </body>
+    <script>
+var btn = document.querySelector('[type=button]');
+btn.onclick = function () {
+    // 文件元素
+    var file = document.querySelector('[type=file]');
+    // 通过FormData将文件转成二进制数据
+    var formData = new FormData();
+    
+    // 将文件转二进制
+    var formData = new FormData($("#file")[0]);
+    
+    formData.append('upload', file.files[0]);
+    $.ajax({
+    url: '../',
+    type: 'PUT',
+    data: formData,                    // 上传formdata封装的数据
+    dataType: 'JSON',
+    cache: false,                      // 不缓存
+    processData: false,                // jQuery不要去处理发送的数据
+    contentType: false,                // jQuery不要去设置Content-Type请求头
+    success:function (data) {           //成功回调
+        console.log(data);
+    }
+});
+    var xhr = new XMLHttpRequest;
+    xhr.open('put', '../');
+    // 监听上传进度
+    xhr.upload.onprogress = function (ev) {
+    // 事件对象
+    // console.log(ev);
+        var percent = (ev.loaded / ev.total) * 100 + '%';
+        console.log(percent);
+        progress.style.width = percent;
+    }
+ 
+    xhr.send(formData);
+    xhr.onreadystatechange = function () {
+            if(xhr.readyState == 4 && xhr.status == 200) {
+                    //
+            }
+    }
+}
+
+    </script>
+</html>
