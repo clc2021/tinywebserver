@@ -1,0 +1,2636 @@
+2024-04-22 13:55:24.501128 [info]: timer tick
+2024-04-22 13:55:29.501173 [info]: timer tick
+2024-04-22 13:55:34.501243 [info]: timer tick
+2024-04-22 13:55:39.501292 [info]: timer tick
+2024-04-22 13:55:44.501363 [info]: timer tick
+2024-04-22 13:55:49.501411 [info]: timer tick
+2024-04-22 13:55:54.501479 [info]: timer tick
+2024-04-22 13:55:59.501566 [info]: timer tick
+2024-04-22 13:56:04.501644 [info]: timer tick
+2024-04-22 13:56:04.676903 [info]: deal with the client(127.0.0.1)
+2024-04-22 13:56:04.676998 [info]: GET / HTTP/1.1
+2024-04-22 13:56:04.677022 [info]: Host: 127.0.0.1:9010
+2024-04-22 13:56:04.677029 [info]: User-Agent: curl/7.81.0
+2024-04-22 13:56:04.677035 [info]: oop!unknow header: User-Agent: curl/7.81.0
+2024-04-22 13:56:04.677040 [info]: Accept: */*
+2024-04-22 13:56:04.677045 [info]: oop!unknow header: Accept: */*
+2024-04-22 13:56:04.677050 [info]: 
+2024-04-22 13:56:04.677109 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 13:56:04.677127 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+
+2024-04-22 13:56:04.677132 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:close
+
+2024-04-22 13:56:04.677138 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:close
+
+
+2024-04-22 13:56:04.677762 [info]: close fd 16
+2024-04-22 13:56:07.888473 [info]: deal with the client(127.0.0.1)
+2024-04-22 13:56:07.888570 [info]: GET / HTTP/1.1
+2024-04-22 13:56:07.888614 [info]: Host: 127.0.0.1:9010
+2024-04-22 13:56:07.888656 [info]: Connection: keep-alive
+2024-04-22 13:56:07.888663 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:56:07.888669 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:56:07.888674 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 13:56:07.888679 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 13:56:07.888684 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 13:56:07.888690 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 13:56:07.888695 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 13:56:07.888699 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 13:56:07.888705 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:56:07.888710 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:56:07.888715 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 13:56:07.888720 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 13:56:07.888725 [info]: Sec-Fetch-Site: none
+2024-04-22 13:56:07.888730 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-04-22 13:56:07.888750 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 13:56:07.888755 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 13:56:07.888760 [info]: Sec-Fetch-User: ?1
+2024-04-22 13:56:07.888765 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 13:56:07.888770 [info]: Sec-Fetch-Dest: document
+2024-04-22 13:56:07.888775 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 13:56:07.888780 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:56:07.888785 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:56:07.888793 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:56:07.888798 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:56:07.888803 [info]: 
+2024-04-22 13:56:07.888859 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 13:56:07.888869 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+
+2024-04-22 13:56:07.888875 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:keep-alive
+
+2024-04-22 13:56:07.888880 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:keep-alive
+
+
+2024-04-22 13:56:07.888980 [info]: send data to the client(127.0.0.1)
+2024-04-22 13:56:08.206540 [info]: deal with the client(127.0.0.1)
+2024-04-22 13:56:08.206658 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 13:56:08.206680 [info]: Host: 127.0.0.1:9010
+2024-04-22 13:56:08.206687 [info]: Connection: keep-alive
+2024-04-22 13:56:08.206693 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:56:08.206699 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:56:08.206704 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 13:56:08.206709 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 13:56:08.206715 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:56:08.206720 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:56:08.206725 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 13:56:08.206730 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 13:56:08.206736 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 13:56:08.206741 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 13:56:08.206746 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 13:56:08.206751 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 13:56:08.206756 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 13:56:08.206761 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 13:56:08.206765 [info]: Sec-Fetch-Dest: image
+2024-04-22 13:56:08.206770 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 13:56:08.206775 [info]: Referer: http://127.0.0.1:9010/
+2024-04-22 13:56:08.206780 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/
+2024-04-22 13:56:08.206785 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:56:08.206790 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:56:08.206795 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:56:08.206800 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:56:08.206805 [info]: 
+2024-04-22 13:56:08.206853 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 13:56:08.206860 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 13:56:08.206865 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 13:56:08.206870 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 13:56:08.207449 [info]: send data to the client(127.0.0.1)
+2024-04-22 13:56:09.501691 [info]: timer tick
+2024-04-22 13:56:14.501774 [info]: timer tick
+2024-04-22 13:56:19.501843 [info]: timer tick
+2024-04-22 13:56:24.501908 [info]: timer tick
+2024-04-22 13:56:29.501965 [info]: timer tick
+2024-04-22 13:56:34.502027 [info]: timer tick
+2024-04-22 13:56:39.502092 [info]: timer tick
+2024-04-22 13:56:44.502159 [info]: timer tick
+2024-04-22 13:56:49.502230 [info]: timer tick
+2024-04-22 13:56:54.502302 [info]: timer tick
+2024-04-22 13:56:59.502363 [info]: timer tick
+2024-04-22 13:57:04.502430 [info]: timer tick
+2024-04-22 13:57:09.502491 [info]: timer tick
+2024-04-22 13:57:14.502587 [info]: timer tick
+2024-04-22 13:57:19.502637 [info]: timer tick
+2024-04-22 13:57:24.502686 [info]: timer tick
+2024-04-22 13:57:29.213421 [info]: deal with the client(127.0.0.1)
+2024-04-22 13:57:29.213497 [info]: POST /1 HTTP/1.1
+2024-04-22 13:57:29.213514 [info]: Host: 127.0.0.1:9010
+2024-04-22 13:57:29.213520 [info]: Connection: keep-alive
+2024-04-22 13:57:29.213536 [info]: Content-Length: 0
+2024-04-22 13:57:29.213542 [info]: Cache-Control: max-age=0
+2024-04-22 13:57:29.213547 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-22 13:57:29.213553 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:57:29.213558 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:57:29.213573 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 13:57:29.213578 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 13:57:29.213583 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 13:57:29.213588 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 13:57:29.213593 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 13:57:29.213598 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 13:57:29.213603 [info]: Origin: http://127.0.0.1:9010
+2024-04-22 13:57:29.213608 [info]: oop!unknow header: Origin: http://127.0.0.1:9010
+2024-04-22 13:57:29.213613 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-22 13:57:29.213618 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:57:29.213623 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:57:29.213628 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 13:57:29.213633 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 13:57:29.213638 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 13:57:29.213643 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 13:57:29.213648 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 13:57:29.213653 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 13:57:29.213658 [info]: Sec-Fetch-User: ?1
+2024-04-22 13:57:29.213663 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 13:57:29.213668 [info]: Sec-Fetch-Dest: document
+2024-04-22 13:57:29.213672 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 13:57:29.213677 [info]: Referer: http://127.0.0.1:9010/
+2024-04-22 13:57:29.213682 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/
+2024-04-22 13:57:29.213687 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:57:29.213692 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:57:29.213700 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:57:29.213705 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:57:29.213710 [info]: 
+2024-04-22 13:57:29.213761 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 13:57:29.213767 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+
+2024-04-22 13:57:29.213773 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+2024-04-22 13:57:29.213778 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+
+2024-04-22 13:57:29.214371 [info]: send data to the client(127.0.0.1)
+2024-04-22 13:57:29.380029 [info]: deal with the client(127.0.0.1)
+2024-04-22 13:57:29.380163 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 13:57:29.380206 [info]: Host: 127.0.0.1:9010
+2024-04-22 13:57:29.380217 [info]: Connection: keep-alive
+2024-04-22 13:57:29.380226 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:57:29.380234 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:57:29.380242 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 13:57:29.380249 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 13:57:29.380257 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:57:29.380265 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:57:29.380273 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 13:57:29.380281 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 13:57:29.380288 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 13:57:29.380306 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 13:57:29.380314 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 13:57:29.380322 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 13:57:29.380329 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 13:57:29.380337 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 13:57:29.380344 [info]: Sec-Fetch-Dest: image
+2024-04-22 13:57:29.380351 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 13:57:29.380359 [info]: Referer: http://127.0.0.1:9010/1
+2024-04-22 13:57:29.380366 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/1
+2024-04-22 13:57:29.380374 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:57:29.380381 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:57:29.380388 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:57:29.380396 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:57:29.380403 [info]: 
+2024-04-22 13:57:29.380461 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 13:57:29.380471 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 13:57:29.380478 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 13:57:29.380486 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 13:57:29.380600 [info]: send data to the client(127.0.0.1)
+2024-04-22 13:57:29.502754 [info]: timer tick
+2024-04-22 13:57:34.502819 [info]: timer tick
+2024-04-22 13:57:34.801445 [info]: deal with the client(127.0.0.1)
+2024-04-22 13:57:34.801648 [info]: POST /2CGISQL.cgi HTTP/1.1
+2024-04-22 13:57:34.801689 [info]: Host: 127.0.0.1:9010
+2024-04-22 13:57:34.801697 [info]: Connection: keep-alive
+2024-04-22 13:57:34.801703 [info]: Content-Length: 22
+2024-04-22 13:57:34.801709 [info]: Cache-Control: max-age=0
+2024-04-22 13:57:34.801714 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-22 13:57:34.801719 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:57:34.801725 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:57:34.801730 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 13:57:34.801735 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 13:57:34.801740 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 13:57:34.801745 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 13:57:34.801750 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 13:57:34.801755 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 13:57:34.801760 [info]: Origin: http://127.0.0.1:9010
+2024-04-22 13:57:34.801765 [info]: oop!unknow header: Origin: http://127.0.0.1:9010
+2024-04-22 13:57:34.801770 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-22 13:57:34.801775 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:57:34.801780 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:57:34.801786 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 13:57:34.801796 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 13:57:34.801802 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 13:57:34.801807 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 13:57:34.801812 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 13:57:34.801817 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 13:57:34.801822 [info]: Sec-Fetch-User: ?1
+2024-04-22 13:57:34.801827 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 13:57:34.801841 [info]: Sec-Fetch-Dest: document
+2024-04-22 13:57:34.801846 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 13:57:34.801851 [info]: Referer: http://127.0.0.1:9010/1
+2024-04-22 13:57:34.801856 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/1
+2024-04-22 13:57:34.801861 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:57:34.801866 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:57:34.801874 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:57:34.801879 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:57:34.801884 [info]: 
+2024-04-22 13:57:34.801889 [info]: user=6&password=666666
+2024-04-22 13:57:34.801938 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 13:57:34.801948 [info]: request:HTTP/1.1 200 OK
+Content-Length:842
+
+2024-04-22 13:57:34.801953 [info]: request:HTTP/1.1 200 OK
+Content-Length:842
+Connection:keep-alive
+
+2024-04-22 13:57:34.801958 [info]: request:HTTP/1.1 200 OK
+Content-Length:842
+Connection:keep-alive
+
+
+2024-04-22 13:57:34.802499 [info]: send data to the client(127.0.0.1)
+2024-04-22 13:57:34.989396 [info]: deal with the client(127.0.0.1)
+2024-04-22 13:57:34.989594 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 13:57:34.989635 [info]: Host: 127.0.0.1:9010
+2024-04-22 13:57:34.989644 [info]: Connection: keep-alive
+2024-04-22 13:57:34.989650 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:57:34.989655 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:57:34.989660 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 13:57:34.989665 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 13:57:34.989671 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:57:34.989676 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:57:34.989681 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 13:57:34.989686 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 13:57:34.989691 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 13:57:34.989696 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 13:57:34.989701 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 13:57:34.989706 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 13:57:34.989711 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 13:57:34.989716 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 13:57:34.989721 [info]: Sec-Fetch-Dest: image
+2024-04-22 13:57:34.989726 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 13:57:34.989739 [info]: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 13:57:34.989745 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 13:57:34.989752 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:57:34.989760 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:57:34.989768 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:57:34.989774 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:57:34.989779 [info]: 
+2024-04-22 13:57:34.989820 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 13:57:34.989827 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 13:57:34.989832 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 13:57:34.989837 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 13:57:34.989948 [info]: send data to the client(127.0.0.1)
+2024-04-22 13:57:39.502906 [info]: timer tick
+2024-04-22 13:57:44.502964 [info]: timer tick
+2024-04-22 13:57:49.503012 [info]: timer tick
+2024-04-22 13:57:54.503084 [info]: timer tick
+2024-04-22 13:57:59.503142 [info]: timer tick
+2024-04-22 13:58:04.503198 [info]: timer tick
+2024-04-22 13:58:09.503254 [info]: timer tick
+2024-04-22 13:58:14.503306 [info]: timer tick
+2024-04-22 13:58:19.503357 [info]: timer tick
+2024-04-22 13:58:24.503423 [info]: timer tick
+2024-04-22 13:58:29.503471 [info]: timer tick
+2024-04-22 13:58:34.503569 [info]: timer tick
+2024-04-22 13:58:39.503651 [info]: timer tick
+2024-04-22 13:58:44.503708 [info]: timer tick
+2024-04-22 13:58:49.496970 [info]: deal with the client(127.0.0.1)
+2024-04-22 13:58:49.497067 [info]: POST /5 HTTP/1.1
+2024-04-22 13:58:49.497112 [info]: Host: 127.0.0.1:9010
+2024-04-22 13:58:49.497120 [info]: Connection: keep-alive
+2024-04-22 13:58:49.497126 [info]: Content-Length: 0
+2024-04-22 13:58:49.497132 [info]: Cache-Control: max-age=0
+2024-04-22 13:58:49.497137 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-22 13:58:49.497142 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:58:49.497148 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:58:49.497153 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 13:58:49.497158 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 13:58:49.497163 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 13:58:49.497168 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 13:58:49.497173 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 13:58:49.497178 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 13:58:49.497183 [info]: Origin: http://127.0.0.1:9010
+2024-04-22 13:58:49.497187 [info]: oop!unknow header: Origin: http://127.0.0.1:9010
+2024-04-22 13:58:49.497192 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-22 13:58:49.497198 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:58:49.497203 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:58:49.497208 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 13:58:49.497213 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 13:58:49.497218 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 13:58:49.497223 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 13:58:49.497228 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 13:58:49.497232 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 13:58:49.497237 [info]: Sec-Fetch-User: ?1
+2024-04-22 13:58:49.497242 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 13:58:49.497247 [info]: Sec-Fetch-Dest: document
+2024-04-22 13:58:49.497252 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 13:58:49.497257 [info]: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 13:58:49.497262 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 13:58:49.497270 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:58:49.497274 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:58:49.497279 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:58:49.497284 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:58:49.497289 [info]: 
+2024-04-22 13:58:49.497343 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 13:58:49.497350 [info]: request:HTTP/1.1 200 OK
+Content-Length:458
+
+2024-04-22 13:58:49.497355 [info]: request:HTTP/1.1 200 OK
+Content-Length:458
+Connection:keep-alive
+
+2024-04-22 13:58:49.497360 [info]: request:HTTP/1.1 200 OK
+Content-Length:458
+Connection:keep-alive
+
+
+2024-04-22 13:58:49.497868 [info]: send data to the client(127.0.0.1)
+2024-04-22 13:58:49.503742 [info]: timer tick
+2024-04-22 13:58:49.540150 [info]: deal with the client(127.0.0.1)
+2024-04-22 13:58:49.540222 [info]: GET /xxx.jpg HTTP/1.1
+2024-04-22 13:58:49.540259 [info]: Host: 127.0.0.1:9010
+2024-04-22 13:58:49.540277 [info]: Connection: keep-alive
+2024-04-22 13:58:49.540284 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:58:49.540290 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:58:49.540295 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 13:58:49.540301 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 13:58:49.540306 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:58:49.540311 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:58:49.540316 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 13:58:49.540321 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 13:58:49.540326 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 13:58:49.540331 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 13:58:49.540336 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 13:58:49.540341 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 13:58:49.540346 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 13:58:49.540351 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 13:58:49.540356 [info]: Sec-Fetch-Dest: image
+2024-04-22 13:58:49.540361 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 13:58:49.540366 [info]: Referer: http://127.0.0.1:9010/5
+2024-04-22 13:58:49.540371 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/5
+2024-04-22 13:58:49.540375 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:58:49.540380 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:58:49.540385 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:58:49.540390 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:58:49.540395 [info]: 
+2024-04-22 13:58:49.540455 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 13:58:49.540473 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+
+2024-04-22 13:58:49.540482 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+2024-04-22 13:58:49.540489 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+
+2024-04-22 13:58:49.577415 [info]: send data to the client(127.0.0.1)
+2024-04-22 13:58:54.503794 [info]: timer tick
+2024-04-22 13:58:59.503876 [info]: timer tick
+2024-04-22 13:59:00.260560 [info]: deal with the client(127.0.0.1)
+2024-04-22 13:59:00.260660 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 13:59:00.260681 [info]: Host: 127.0.0.1:9010
+2024-04-22 13:59:00.260692 [info]: Connection: keep-alive
+2024-04-22 13:59:00.260700 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:59:00.260709 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 13:59:00.260717 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 13:59:00.260725 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 13:59:00.260733 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:59:00.260742 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 13:59:00.260750 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 13:59:00.260758 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 13:59:00.260766 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 13:59:00.260774 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 13:59:00.260781 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 13:59:00.260788 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 13:59:00.260810 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 13:59:00.260818 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 13:59:00.260825 [info]: Sec-Fetch-Dest: image
+2024-04-22 13:59:00.260832 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 13:59:00.260840 [info]: Referer: http://127.0.0.1:9010/5
+2024-04-22 13:59:00.260847 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/5
+2024-04-22 13:59:00.260855 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:59:00.260862 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 13:59:00.260870 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:59:00.260878 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 13:59:00.260885 [info]: 
+2024-04-22 13:59:00.260943 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 13:59:00.260958 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 13:59:00.260968 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 13:59:00.260975 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 13:59:00.261210 [info]: send data to the client(127.0.0.1)
+2024-04-22 13:59:04.503951 [info]: timer tick
+2024-04-22 13:59:09.504015 [info]: timer tick
+2024-04-22 13:59:14.504085 [info]: timer tick
+2024-04-22 13:59:19.504166 [info]: timer tick
+2024-04-22 13:59:24.504230 [info]: timer tick
+2024-04-22 13:59:29.504292 [info]: timer tick
+2024-04-22 13:59:34.504346 [info]: timer tick
+2024-04-22 13:59:39.504413 [info]: timer tick
+2024-04-22 13:59:44.504524 [info]: timer tick
+2024-04-22 13:59:49.504587 [info]: timer tick
+2024-04-22 13:59:54.504666 [info]: timer tick
+2024-04-22 13:59:59.504725 [info]: timer tick
+2024-04-22 14:00:04.504788 [info]: timer tick
+2024-04-22 14:00:09.504846 [info]: timer tick
+2024-04-22 14:00:14.504909 [info]: timer tick
+2024-04-22 14:00:19.504967 [info]: timer tick
+2024-04-22 14:00:24.505032 [info]: timer tick
+2024-04-22 14:00:29.505086 [info]: timer tick
+2024-04-22 14:00:34.505144 [info]: timer tick
+2024-04-22 14:00:35.151988 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:00:35.152049 [info]: GET / HTTP/1.1
+2024-04-22 14:00:35.152063 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:00:35.152069 [info]: User-Agent: curl/7.81.0
+2024-04-22 14:00:35.152074 [info]: oop!unknow header: User-Agent: curl/7.81.0
+2024-04-22 14:00:35.152080 [info]: Accept: */*
+2024-04-22 14:00:35.152087 [info]: oop!unknow header: Accept: */*
+2024-04-22 14:00:35.152095 [info]: 
+2024-04-22 14:00:35.152145 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:00:35.152157 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+
+2024-04-22 14:00:35.152163 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:close
+
+2024-04-22 14:00:35.152168 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:close
+
+
+2024-04-22 14:00:35.152438 [info]: close fd 29
+2024-04-22 14:00:37.033552 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:00:37.033641 [info]: GET / HTTP/1.1
+2024-04-22 14:00:37.033688 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:00:37.033697 [info]: Connection: keep-alive
+2024-04-22 14:00:37.033703 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:00:37.033709 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:00:37.033715 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:00:37.033720 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:00:37.033725 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:00:37.033730 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:00:37.033735 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:00:37.033740 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:00:37.033745 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:00:37.033751 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:00:37.033766 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:00:37.033771 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:00:37.033776 [info]: Sec-Fetch-Site: none
+2024-04-22 14:00:37.033781 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-04-22 14:00:37.033786 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:00:37.033791 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:00:37.033796 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:00:37.033801 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:00:37.033806 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:00:37.033811 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:00:37.033816 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:00:37.033821 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:00:37.033827 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:00:37.033832 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:00:37.033837 [info]: 
+2024-04-22 14:00:37.033881 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:00:37.033887 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+
+2024-04-22 14:00:37.033892 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:keep-alive
+
+2024-04-22 14:00:37.033898 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:keep-alive
+
+
+2024-04-22 14:00:37.033998 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:00:37.467387 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:00:37.467464 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:00:37.467479 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:00:37.467486 [info]: Connection: keep-alive
+2024-04-22 14:00:37.467491 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:00:37.467497 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:00:37.467502 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:00:37.467507 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:00:37.467513 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:00:37.467518 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:00:37.467523 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:00:37.467528 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:00:37.467533 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:00:37.467538 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:00:37.467543 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:00:37.467548 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:00:37.467553 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:00:37.467558 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:00:37.467563 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:00:37.467568 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:00:37.467573 [info]: Referer: http://127.0.0.1:9010/
+2024-04-22 14:00:37.467577 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/
+2024-04-22 14:00:37.467582 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:00:37.467588 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:00:37.467592 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:00:37.467597 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:00:37.467602 [info]: 
+2024-04-22 14:00:37.467655 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:00:37.467676 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:00:37.467681 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:00:37.467686 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:00:37.467759 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:00:39.158227 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:00:39.158302 [info]: POST /1 HTTP/1.1
+2024-04-22 14:00:39.158344 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:00:39.158354 [info]: Connection: keep-alive
+2024-04-22 14:00:39.158362 [info]: Content-Length: 0
+2024-04-22 14:00:39.158370 [info]: Cache-Control: max-age=0
+2024-04-22 14:00:39.158377 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-22 14:00:39.158384 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:00:39.158389 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:00:39.158394 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:00:39.158399 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:00:39.158405 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:00:39.158410 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:00:39.158415 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:00:39.158420 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:00:39.158428 [info]: Origin: http://127.0.0.1:9010
+2024-04-22 14:00:39.158436 [info]: oop!unknow header: Origin: http://127.0.0.1:9010
+2024-04-22 14:00:39.158443 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-22 14:00:39.158448 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:00:39.158453 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:00:39.158459 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:00:39.158464 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:00:39.158469 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:00:39.158474 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:00:39.158479 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:00:39.158484 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:00:39.158488 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:00:39.158494 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:00:39.158499 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:00:39.158503 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:00:39.158508 [info]: Referer: http://127.0.0.1:9010/
+2024-04-22 14:00:39.158513 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/
+2024-04-22 14:00:39.158518 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:00:39.158523 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:00:39.158528 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:00:39.158533 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:00:39.158538 [info]: 
+2024-04-22 14:00:39.158597 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:00:39.158605 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+
+2024-04-22 14:00:39.158611 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+2024-04-22 14:00:39.158616 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+
+2024-04-22 14:00:39.158740 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:00:39.337069 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:00:39.337141 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:00:39.337185 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:00:39.337205 [info]: Connection: keep-alive
+2024-04-22 14:00:39.337212 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:00:39.337218 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:00:39.337223 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:00:39.337228 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:00:39.337234 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:00:39.337239 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:00:39.337244 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:00:39.337249 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:00:39.337254 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:00:39.337259 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:00:39.337264 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:00:39.337269 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:00:39.337274 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:00:39.337279 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:00:39.337284 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:00:39.337289 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:00:39.337294 [info]: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:00:39.337298 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:00:39.337303 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:00:39.337308 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:00:39.337313 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:00:39.337319 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:00:39.337326 [info]: 
+2024-04-22 14:00:39.337383 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:00:39.337393 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:00:39.337399 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:00:39.337404 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:00:39.337527 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:00:39.505222 [info]: timer tick
+2024-04-22 14:00:44.505275 [info]: timer tick
+2024-04-22 14:00:49.505326 [info]: timer tick
+2024-04-22 14:00:54.505387 [info]: timer tick
+2024-04-22 14:00:56.748570 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:00:56.748662 [info]: POST /2CGISQL.cgi HTTP/1.1
+2024-04-22 14:00:56.748705 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:00:56.748714 [info]: Connection: keep-alive
+2024-04-22 14:00:56.748720 [info]: Content-Length: 22
+2024-04-22 14:00:56.748726 [info]: Cache-Control: max-age=0
+2024-04-22 14:00:56.748731 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-22 14:00:56.748736 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:00:56.748742 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:00:56.748747 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:00:56.748752 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:00:56.748757 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:00:56.748762 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:00:56.748767 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:00:56.748772 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:00:56.748777 [info]: Origin: http://127.0.0.1:9010
+2024-04-22 14:00:56.748781 [info]: oop!unknow header: Origin: http://127.0.0.1:9010
+2024-04-22 14:00:56.748786 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-22 14:00:56.748792 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:00:56.748806 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:00:56.748811 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:00:56.748816 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:00:56.748821 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:00:56.748826 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:00:56.748831 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:00:56.748836 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:00:56.748840 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:00:56.748845 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:00:56.748850 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:00:56.748855 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:00:56.748860 [info]: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:00:56.748865 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:00:56.748870 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:00:56.748875 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:00:56.748881 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:00:56.748885 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:00:56.748890 [info]: 
+2024-04-22 14:00:56.748895 [info]: user=6&password=666666
+2024-04-22 14:00:56.748952 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:00:56.748966 [info]: request:HTTP/1.1 200 OK
+Content-Length:842
+
+2024-04-22 14:00:56.748972 [info]: request:HTTP/1.1 200 OK
+Content-Length:842
+Connection:keep-alive
+
+2024-04-22 14:00:56.748977 [info]: request:HTTP/1.1 200 OK
+Content-Length:842
+Connection:keep-alive
+
+
+2024-04-22 14:00:56.749086 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:00:56.862876 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:00:56.862944 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:00:56.862988 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:00:56.862998 [info]: Connection: keep-alive
+2024-04-22 14:00:56.863006 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:00:56.863014 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:00:56.863020 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:00:56.863027 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:00:56.863034 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:00:56.863041 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:00:56.863047 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:00:56.863054 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:00:56.863061 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:00:56.863067 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:00:56.863073 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:00:56.863080 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:00:56.863086 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:00:56.863092 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:00:56.863098 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:00:56.863105 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:00:56.863111 [info]: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 14:00:56.863117 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 14:00:56.863135 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:00:56.863142 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:00:56.863148 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:00:56.863154 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:00:56.863161 [info]: 
+2024-04-22 14:00:56.863214 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:00:56.863222 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:00:56.863229 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:00:56.863235 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:00:56.863360 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:00:59.505444 [info]: timer tick
+2024-04-22 14:01:01.628229 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:01:01.628289 [info]: POST /7 HTTP/1.1
+2024-04-22 14:01:01.628301 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:01:01.628307 [info]: Connection: keep-alive
+2024-04-22 14:01:01.628313 [info]: Content-Length: 0
+2024-04-22 14:01:01.628318 [info]: Cache-Control: max-age=0
+2024-04-22 14:01:01.628323 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-22 14:01:01.628328 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:01:01.628334 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:01:01.628339 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:01:01.628344 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:01:01.628349 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:01:01.628354 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:01:01.628359 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:01:01.628364 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:01:01.628369 [info]: Origin: http://127.0.0.1:9010
+2024-04-22 14:01:01.628374 [info]: oop!unknow header: Origin: http://127.0.0.1:9010
+2024-04-22 14:01:01.628379 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-22 14:01:01.628384 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:01:01.628389 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:01:01.628395 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:01:01.628400 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:01:01.628405 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:01:01.628410 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:01:01.628415 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:01:01.628419 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:01:01.628424 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:01:01.628429 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:01:01.628434 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:01:01.628439 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:01:01.628444 [info]: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 14:01:01.628449 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 14:01:01.628454 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:01:01.628459 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:01:01.628464 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:01:01.628469 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:01:01.628473 [info]: 
+2024-04-22 14:01:01.628530 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:01:01.628537 [info]: request:HTTP/1.1 200 OK
+Content-Length:392
+
+2024-04-22 14:01:01.628556 [info]: request:HTTP/1.1 200 OK
+Content-Length:392
+Connection:keep-alive
+
+2024-04-22 14:01:01.628561 [info]: request:HTTP/1.1 200 OK
+Content-Length:392
+Connection:keep-alive
+
+
+2024-04-22 14:01:01.629479 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:01:01.670810 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:01:01.670884 [info]: GET /test1.jpg HTTP/1.1
+2024-04-22 14:01:01.670930 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:01:01.670942 [info]: Connection: keep-alive
+2024-04-22 14:01:01.670951 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:01:01.670959 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:01:01.670967 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:01:01.670975 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:01:01.670983 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:01:01.670991 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:01:01.670999 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:01:01.671006 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:01:01.671014 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:01:01.671021 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:01:01.671029 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:01:01.671036 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:01:01.671044 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:01:01.671051 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:01:01.671059 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:01:01.671066 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:01:01.671074 [info]: Referer: http://127.0.0.1:9010/7
+2024-04-22 14:01:01.671082 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/7
+2024-04-22 14:01:01.671089 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:01:01.671097 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:01:01.671104 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:01:01.671112 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:01:01.671119 [info]: 
+2024-04-22 14:01:01.671185 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:01:01.671195 [info]: request:HTTP/1.1 200 OK
+Content-Length:78443
+
+2024-04-22 14:01:01.671203 [info]: request:HTTP/1.1 200 OK
+Content-Length:78443
+Connection:keep-alive
+
+2024-04-22 14:01:01.671210 [info]: request:HTTP/1.1 200 OK
+Content-Length:78443
+Connection:keep-alive
+
+
+2024-04-22 14:01:01.673100 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:01:01.782556 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:01:01.782698 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:01:01.782724 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:01:01.782733 [info]: Connection: keep-alive
+2024-04-22 14:01:01.782741 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:01:01.782750 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:01:01.782758 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:01:01.782766 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:01:01.782774 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:01:01.782781 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:01:01.782789 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:01:01.782823 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:01:01.782832 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:01:01.782853 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:01:01.782862 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:01:01.782869 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:01:01.782877 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:01:01.782885 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:01:01.782893 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:01:01.782900 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:01:01.782908 [info]: Referer: http://127.0.0.1:9010/7
+2024-04-22 14:01:01.782915 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/7
+2024-04-22 14:01:01.782923 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:01:01.782931 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:01:01.782939 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:01:01.782946 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:01:01.782953 [info]: 
+2024-04-22 14:01:01.783049 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:01:01.783063 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:01:01.783071 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:01:01.783078 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:01:01.783180 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:01:04.505519 [info]: timer tick
+2024-04-22 14:01:09.505568 [info]: timer tick
+2024-04-22 14:01:14.505628 [info]: timer tick
+2024-04-22 14:01:19.505690 [info]: timer tick
+2024-04-22 14:01:24.505732 [info]: timer tick
+2024-04-22 14:01:29.505777 [info]: timer tick
+2024-04-22 14:01:34.505849 [info]: timer tick
+2024-04-22 14:01:39.505925 [info]: timer tick
+2024-04-22 14:01:44.505997 [info]: timer tick
+2024-04-22 14:01:49.506052 [info]: timer tick
+2024-04-22 14:01:54.506120 [info]: timer tick
+2024-04-22 14:01:59.506172 [info]: timer tick
+2024-04-22 14:02:04.506239 [info]: timer tick
+2024-04-22 14:02:09.506293 [info]: timer tick
+2024-04-22 14:02:14.506358 [info]: timer tick
+2024-04-22 14:02:19.506419 [info]: timer tick
+2024-04-22 14:02:24.506505 [info]: timer tick
+2024-04-22 14:02:29.506580 [info]: timer tick
+2024-04-22 14:02:34.506630 [info]: timer tick
+2024-04-22 14:02:39.506689 [info]: timer tick
+2024-04-22 14:02:44.506755 [info]: timer tick
+2024-04-22 14:02:49.506807 [info]: timer tick
+2024-04-22 14:02:54.506874 [info]: timer tick
+2024-04-22 14:02:59.506925 [info]: timer tick
+2024-04-22 14:03:04.506990 [info]: timer tick
+2024-04-22 14:03:09.507061 [info]: timer tick
+2024-04-22 14:03:14.507138 [info]: timer tick
+2024-04-22 14:03:19.507194 [info]: timer tick
+2024-04-22 14:03:24.507256 [info]: timer tick
+2024-04-22 14:03:29.507321 [info]: timer tick
+2024-04-22 14:03:34.507394 [info]: timer tick
+2024-04-22 14:03:39.507481 [info]: timer tick
+2024-04-22 14:03:44.507536 [info]: timer tick
+2024-04-22 14:03:49.507613 [info]: timer tick
+2024-04-22 14:03:54.507686 [info]: timer tick
+2024-04-22 14:03:59.507758 [info]: timer tick
+2024-04-22 14:04:04.507834 [info]: timer tick
+2024-04-22 14:04:09.507906 [info]: timer tick
+2024-04-22 14:04:14.507977 [info]: timer tick
+2024-04-22 14:04:19.508048 [info]: timer tick
+2024-04-22 14:04:24.508112 [info]: timer tick
+2024-04-22 14:04:29.508174 [info]: timer tick
+2024-04-22 14:04:34.508250 [info]: timer tick
+2024-04-22 14:04:39.508317 [info]: timer tick
+2024-04-22 14:04:44.508391 [info]: timer tick
+2024-04-22 14:04:49.508477 [info]: timer tick
+2024-04-22 14:04:54.508548 [info]: timer tick
+2024-04-22 14:04:59.508666 [info]: timer tick
+2024-04-22 14:05:04.508718 [info]: timer tick
+2024-04-22 14:05:09.508772 [info]: timer tick
+2024-04-22 14:05:14.508846 [info]: timer tick
+2024-04-22 14:05:19.508909 [info]: timer tick
+2024-04-22 14:05:24.508962 [info]: timer tick
+2024-04-22 14:05:29.509023 [info]: timer tick
+2024-04-22 14:05:34.509081 [info]: timer tick
+2024-04-22 14:05:39.509147 [info]: timer tick
+2024-04-22 14:05:44.509214 [info]: timer tick
+2024-04-22 14:05:49.509272 [info]: timer tick
+2024-04-22 14:05:54.509334 [info]: timer tick
+2024-04-22 14:05:59.509395 [info]: timer tick
+2024-04-22 14:06:04.509502 [info]: timer tick
+2024-04-22 14:06:09.509568 [info]: timer tick
+2024-04-22 14:07:10.818247 [info]: timer tick
+2024-04-22 14:07:15.818316 [info]: timer tick
+2024-04-22 14:07:20.818365 [info]: timer tick
+2024-04-22 14:07:25.818443 [info]: timer tick
+2024-04-22 14:07:30.818505 [info]: timer tick
+2024-04-22 14:07:35.818580 [info]: timer tick
+2024-04-22 14:07:40.818644 [info]: timer tick
+2024-04-22 14:07:44.268901 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:07:44.269069 [info]: GET / HTTP/1.1
+2024-04-22 14:07:44.269104 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:07:44.269116 [info]: User-Agent: curl/7.81.0
+2024-04-22 14:07:44.269122 [info]: oop!unknow header: User-Agent: curl/7.81.0
+2024-04-22 14:07:44.269127 [info]: Accept: */*
+2024-04-22 14:07:44.269133 [info]: oop!unknow header: Accept: */*
+2024-04-22 14:07:44.269138 [info]: 
+2024-04-22 14:07:44.269172 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:07:44.269178 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+
+2024-04-22 14:07:44.269184 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:close
+
+2024-04-22 14:07:44.269189 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:close
+
+
+2024-04-22 14:07:44.269369 [info]: close fd 16
+2024-04-22 14:07:45.818717 [info]: timer tick
+2024-04-22 14:07:46.370467 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:07:46.370561 [info]: GET / HTTP/1.1
+2024-04-22 14:07:46.370628 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:07:46.370637 [info]: Connection: keep-alive
+2024-04-22 14:07:46.370643 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:07:46.370649 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:07:46.370654 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:07:46.370659 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:07:46.370665 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:07:46.370670 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:07:46.370675 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:07:46.370682 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:07:46.370690 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:07:46.370698 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:07:46.370704 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:07:46.370709 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:07:46.370714 [info]: Sec-Fetch-Site: none
+2024-04-22 14:07:46.370719 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-04-22 14:07:46.370724 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:07:46.370729 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:07:46.370734 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:07:46.370739 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:07:46.370744 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:07:46.370749 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:07:46.370754 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:07:46.370759 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:07:46.370767 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:07:46.370772 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:07:46.370777 [info]: 
+2024-04-22 14:07:46.370819 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:07:46.370837 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+
+2024-04-22 14:07:46.370842 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:keep-alive
+
+2024-04-22 14:07:46.370847 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:keep-alive
+
+
+2024-04-22 14:07:46.370953 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:07:46.730437 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:07:46.730534 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:07:46.730555 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:07:46.730588 [info]: Connection: keep-alive
+2024-04-22 14:07:46.730597 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:07:46.730602 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:07:46.730608 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:07:46.730613 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:07:46.730618 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:07:46.730624 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:07:46.730629 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:07:46.730634 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:07:46.730639 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:07:46.730644 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:07:46.730649 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:07:46.730654 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:07:46.730659 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:07:46.730664 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:07:46.730669 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:07:46.730674 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:07:46.730679 [info]: Referer: http://127.0.0.1:9010/
+2024-04-22 14:07:46.730684 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/
+2024-04-22 14:07:46.730689 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:07:46.730694 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:07:46.730699 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:07:46.730704 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:07:46.730709 [info]: 
+2024-04-22 14:07:46.730749 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:07:46.730756 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:07:46.730761 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:07:46.730766 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:07:46.730832 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:07:50.818771 [info]: timer tick
+2024-04-22 14:07:55.818847 [info]: timer tick
+2024-04-22 14:08:00.818939 [info]: timer tick
+2024-04-22 14:08:05.819000 [info]: timer tick
+2024-04-22 14:08:10.819086 [info]: timer tick
+2024-04-22 14:08:10.924494 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:08:10.924577 [info]: POST /1 HTTP/1.1
+2024-04-22 14:08:10.924622 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:08:10.924630 [info]: Connection: keep-alive
+2024-04-22 14:08:10.924636 [info]: Content-Length: 0
+2024-04-22 14:08:10.924642 [info]: Cache-Control: max-age=0
+2024-04-22 14:08:10.924647 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-22 14:08:10.924652 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:08:10.924658 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:08:10.924663 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:08:10.924668 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:08:10.924673 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:08:10.924685 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:08:10.924690 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:08:10.924695 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:08:10.924700 [info]: Origin: http://127.0.0.1:9010
+2024-04-22 14:08:10.924705 [info]: oop!unknow header: Origin: http://127.0.0.1:9010
+2024-04-22 14:08:10.924711 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-22 14:08:10.924716 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:08:10.924722 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:08:10.924727 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:08:10.924733 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:08:10.924738 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:08:10.924742 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:08:10.924747 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:08:10.924752 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:08:10.924757 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:08:10.924762 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:08:10.924767 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:08:10.924772 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:08:10.924777 [info]: Referer: http://127.0.0.1:9010/
+2024-04-22 14:08:10.924782 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/
+2024-04-22 14:08:10.924787 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:08:10.924792 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:08:10.924800 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:08:10.924805 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:08:10.924810 [info]: 
+2024-04-22 14:08:10.924858 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:08:10.924871 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+
+2024-04-22 14:08:10.924878 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+2024-04-22 14:08:10.924883 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+
+2024-04-22 14:08:10.925002 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:08:11.076615 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:08:11.076711 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:08:11.076732 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:08:11.076738 [info]: Connection: keep-alive
+2024-04-22 14:08:11.076744 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:08:11.076749 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:08:11.076755 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:08:11.076760 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:08:11.076765 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:08:11.076771 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:08:11.076776 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:08:11.076781 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:08:11.076786 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:08:11.076791 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:08:11.076796 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:08:11.076810 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:08:11.076815 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:08:11.076820 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:08:11.076825 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:08:11.076830 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:08:11.076835 [info]: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:08:11.076840 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:08:11.076845 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:08:11.076850 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:08:11.076855 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:08:11.076860 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:08:11.076865 [info]: 
+2024-04-22 14:08:11.076914 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:08:11.076921 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:08:11.076926 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:08:11.076931 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:08:11.076989 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:08:15.819155 [info]: timer tick
+2024-04-22 14:08:20.819220 [info]: timer tick
+2024-04-22 14:08:30.178249 [info]: timer tick
+2024-04-22 14:08:35.178311 [info]: timer tick
+2024-04-22 14:08:37.844348 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:08:37.844614 [info]: GET / HTTP/1.1
+2024-04-22 14:08:37.844663 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:08:37.844675 [info]: User-Agent: curl/7.81.0
+2024-04-22 14:08:37.844683 [info]: oop!unknow header: User-Agent: curl/7.81.0
+2024-04-22 14:08:37.844691 [info]: Accept: */*
+2024-04-22 14:08:37.844699 [info]: oop!unknow header: Accept: */*
+2024-04-22 14:08:37.844706 [info]: 
+2024-04-22 14:08:37.845014 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:08:37.845036 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+
+2024-04-22 14:08:37.845042 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:close
+
+2024-04-22 14:08:37.845048 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:close
+
+
+2024-04-22 14:08:37.845228 [info]: close fd 16
+2024-04-22 14:08:39.746166 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:08:39.746257 [info]: GET / HTTP/1.1
+2024-04-22 14:08:39.746304 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:08:39.746313 [info]: Connection: keep-alive
+2024-04-22 14:08:39.746319 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:08:39.746325 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:08:39.746330 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:08:39.746335 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:08:39.746341 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:08:39.746346 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:08:39.746351 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:08:39.746356 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:08:39.746361 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:08:39.746366 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:08:39.746371 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:08:39.746376 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:08:39.746381 [info]: Sec-Fetch-Site: none
+2024-04-22 14:08:39.746386 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-04-22 14:08:39.746401 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:08:39.746406 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:08:39.746411 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:08:39.746430 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:08:39.746437 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:08:39.746442 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:08:39.746447 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:08:39.746452 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:08:39.746460 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:08:39.746465 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:08:39.746470 [info]: 
+2024-04-22 14:08:39.746521 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:08:39.746528 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+
+2024-04-22 14:08:39.746533 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:keep-alive
+
+2024-04-22 14:08:39.746539 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:keep-alive
+
+
+2024-04-22 14:08:39.746636 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:08:40.112285 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:08:40.112484 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:08:40.112525 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:08:40.112533 [info]: Connection: keep-alive
+2024-04-22 14:08:40.112539 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:08:40.112545 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:08:40.112555 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:08:40.112561 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:08:40.112567 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:08:40.112572 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:08:40.112577 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:08:40.112582 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:08:40.112588 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:08:40.112593 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:08:40.112598 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:08:40.112603 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:08:40.112608 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:08:40.112613 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:08:40.112618 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:08:40.112622 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:08:40.112628 [info]: Referer: http://127.0.0.1:9010/
+2024-04-22 14:08:40.112633 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/
+2024-04-22 14:08:40.112638 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:08:40.112643 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:08:40.112648 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:08:40.112653 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:08:40.112658 [info]: 
+2024-04-22 14:08:40.112709 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:08:40.112719 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:08:40.112726 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:08:40.112732 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:08:40.112863 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:08:40.178386 [info]: timer tick
+2024-04-22 14:08:45.178480 [info]: timer tick
+2024-04-22 14:08:50.178548 [info]: timer tick
+2024-04-22 14:08:55.178612 [info]: timer tick
+2024-04-22 14:09:00.178675 [info]: timer tick
+2024-04-22 14:09:05.178765 [info]: timer tick
+2024-04-22 14:09:10.178823 [info]: timer tick
+2024-04-22 14:09:15.178884 [info]: timer tick
+2024-04-22 14:09:20.178940 [info]: timer tick
+2024-04-22 14:09:25.178992 [info]: timer tick
+2024-04-22 14:09:30.179049 [info]: timer tick
+2024-04-22 14:09:35.179114 [info]: timer tick
+2024-04-22 14:09:40.179182 [info]: timer tick
+2024-04-22 14:09:45.179241 [info]: timer tick
+2024-04-22 14:09:50.179301 [info]: timer tick
+2024-04-22 14:09:55.179369 [info]: timer tick
+2024-04-22 14:10:00.179429 [info]: timer tick
+2024-04-22 14:10:05.179480 [info]: timer tick
+2024-04-22 14:10:10.179538 [info]: timer tick
+2024-04-22 14:10:15.179593 [info]: timer tick
+2024-04-22 14:10:20.179650 [info]: timer tick
+2024-04-22 14:10:25.179723 [info]: timer tick
+2024-04-22 14:10:30.179791 [info]: timer tick
+2024-04-22 14:10:35.179844 [info]: timer tick
+2024-04-22 14:10:40.179934 [info]: timer tick
+2024-04-22 14:10:45.179980 [info]: timer tick
+2024-04-22 14:10:50.180046 [info]: timer tick
+2024-04-22 14:10:55.180111 [info]: timer tick
+2024-04-22 14:11:00.180187 [info]: timer tick
+2024-04-22 14:11:05.180247 [info]: timer tick
+2024-04-22 14:11:10.180296 [info]: timer tick
+2024-04-22 14:11:15.180354 [info]: timer tick
+2024-04-22 14:11:20.180436 [info]: timer tick
+2024-04-22 14:11:25.180494 [info]: timer tick
+2024-04-22 14:11:30.180554 [info]: timer tick
+2024-04-22 14:11:35.180619 [info]: timer tick
+2024-04-22 14:11:40.180686 [info]: timer tick
+2024-04-22 14:11:45.180754 [info]: timer tick
+2024-04-22 14:11:50.180811 [info]: timer tick
+2024-04-22 14:11:55.180863 [info]: timer tick
+2024-04-22 14:11:58.509418 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:11:58.509509 [info]: POST /1 HTTP/1.1
+2024-04-22 14:11:58.509558 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:11:58.509566 [info]: Connection: keep-alive
+2024-04-22 14:11:58.509572 [info]: Content-Length: 0
+2024-04-22 14:11:58.509578 [info]: Cache-Control: max-age=0
+2024-04-22 14:11:58.509584 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-22 14:11:58.509589 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:11:58.509595 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:11:58.509600 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:11:58.509605 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:11:58.509611 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:11:58.509615 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:11:58.509620 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:11:58.509625 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:11:58.509630 [info]: Origin: http://127.0.0.1:9010
+2024-04-22 14:11:58.509635 [info]: oop!unknow header: Origin: http://127.0.0.1:9010
+2024-04-22 14:11:58.509640 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-22 14:11:58.509646 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:11:58.509651 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:11:58.509656 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:11:58.509661 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:11:58.509667 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:11:58.509674 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:11:58.509681 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:11:58.509688 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:11:58.509695 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:11:58.509703 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:11:58.509708 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:11:58.509722 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:11:58.509727 [info]: Referer: http://127.0.0.1:9010/
+2024-04-22 14:11:58.509732 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/
+2024-04-22 14:11:58.509737 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:11:58.509742 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:11:58.509750 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:11:58.509755 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:11:58.509760 [info]: 
+2024-04-22 14:11:58.509803 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:11:58.509809 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+
+2024-04-22 14:11:58.509814 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+2024-04-22 14:11:58.509820 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+
+2024-04-22 14:11:58.509961 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:11:58.697031 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:11:58.697134 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:11:58.697159 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:11:58.697165 [info]: Connection: keep-alive
+2024-04-22 14:11:58.697171 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:11:58.697177 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:11:58.697182 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:11:58.697187 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:11:58.697193 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:11:58.697198 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:11:58.697203 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:11:58.697208 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:11:58.697213 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:11:58.697218 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:11:58.697223 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:11:58.697228 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:11:58.697233 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:11:58.697238 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:11:58.697243 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:11:58.697248 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:11:58.697253 [info]: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:11:58.697258 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:11:58.697263 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:11:58.697268 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:11:58.697274 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:11:58.697278 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:11:58.697283 [info]: 
+2024-04-22 14:11:58.697323 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:11:58.697333 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:11:58.697338 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:11:58.697343 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:11:58.697420 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:12:00.180930 [info]: timer tick
+2024-04-22 14:12:03.796841 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:12:03.796964 [info]: POST /2CGISQL.cgi HTTP/1.1
+2024-04-22 14:12:03.796987 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:12:03.796995 [info]: Connection: keep-alive
+2024-04-22 14:12:03.797003 [info]: Content-Length: 22
+2024-04-22 14:12:03.797010 [info]: Cache-Control: max-age=0
+2024-04-22 14:12:03.797027 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-22 14:12:03.797034 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:12:03.797041 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:12:03.797048 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:12:03.797055 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:12:03.797061 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:12:03.797067 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:12:03.797074 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:12:03.797080 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:12:03.797087 [info]: Origin: http://127.0.0.1:9010
+2024-04-22 14:12:03.797093 [info]: oop!unknow header: Origin: http://127.0.0.1:9010
+2024-04-22 14:12:03.797100 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-22 14:12:03.797108 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:12:03.797114 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:12:03.797122 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:12:03.797128 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:12:03.797135 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:12:03.797142 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:12:03.797148 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:12:03.797154 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:12:03.797161 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:12:03.797167 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:12:03.797174 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:12:03.797181 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:12:03.797187 [info]: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:12:03.797193 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:12:03.797200 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:12:03.797207 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:12:03.797217 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:12:03.797223 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:12:03.797229 [info]: 
+2024-04-22 14:12:03.797236 [info]: user=6&password=666666
+2024-04-22 14:12:03.797285 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:12:03.797298 [info]: request:HTTP/1.1 200 OK
+Content-Length:842
+
+2024-04-22 14:12:03.797305 [info]: request:HTTP/1.1 200 OK
+Content-Length:842
+Connection:keep-alive
+
+2024-04-22 14:12:03.797311 [info]: request:HTTP/1.1 200 OK
+Content-Length:842
+Connection:keep-alive
+
+
+2024-04-22 14:12:03.797386 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:12:03.942634 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:12:03.942745 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:12:03.942798 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:12:03.942807 [info]: Connection: keep-alive
+2024-04-22 14:12:03.942814 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:12:03.942820 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:12:03.942825 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:12:03.942830 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:12:03.942836 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:12:03.942841 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:12:03.942856 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:12:03.942861 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:12:03.942866 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:12:03.942871 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:12:03.942876 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:12:03.942881 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:12:03.942886 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:12:03.942891 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:12:03.942896 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:12:03.942901 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:12:03.942906 [info]: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 14:12:03.942911 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 14:12:03.942916 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:12:03.942921 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:12:03.942926 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:12:03.942931 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:12:03.942936 [info]: 
+2024-04-22 14:12:03.942981 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:12:03.942987 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:12:03.942992 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:12:03.942998 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:12:03.943108 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:12:05.180993 [info]: timer tick
+2024-04-22 14:12:10.181048 [info]: timer tick
+2024-04-22 14:12:15.181097 [info]: timer tick
+2024-04-22 14:12:20.181156 [info]: timer tick
+2024-04-22 14:12:25.181213 [info]: timer tick
+2024-04-22 14:12:30.181277 [info]: timer tick
+2024-04-22 14:12:35.181330 [info]: timer tick
+2024-04-22 14:12:40.181408 [info]: timer tick
+2024-04-22 14:12:45.181474 [info]: timer tick
+2024-04-22 14:12:50.181529 [info]: timer tick
+2024-04-22 14:12:55.181589 [info]: timer tick
+2024-04-22 14:13:00.181666 [info]: timer tick
+2024-04-22 14:13:05.181732 [info]: timer tick
+2024-04-22 14:13:10.181797 [info]: timer tick
+2024-04-22 14:13:15.181861 [info]: timer tick
+2024-04-22 14:13:20.181923 [info]: timer tick
+2024-04-22 14:13:25.181980 [info]: timer tick
+2024-04-22 14:13:30.182033 [info]: timer tick
+2024-04-22 14:13:35.182095 [info]: timer tick
+2024-04-22 14:13:42.501887 [info]: timer tick
+2024-04-22 14:13:43.075199 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:13:43.075304 [info]: GET / HTTP/1.1
+2024-04-22 14:13:43.075328 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:13:43.075337 [info]: User-Agent: curl/7.81.0
+2024-04-22 14:13:43.075344 [info]: oop!unknow header: User-Agent: curl/7.81.0
+2024-04-22 14:13:43.075351 [info]: Accept: */*
+2024-04-22 14:13:43.075358 [info]: oop!unknow header: Accept: */*
+2024-04-22 14:13:43.075364 [info]: 
+2024-04-22 14:13:43.075424 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:13:43.075436 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+
+2024-04-22 14:13:43.075443 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:close
+
+2024-04-22 14:13:43.075450 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:close
+
+
+2024-04-22 14:13:43.075690 [info]: close fd 16
+2024-04-22 14:13:45.729032 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:13:45.729112 [info]: GET / HTTP/1.1
+2024-04-22 14:13:45.729129 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:13:45.729138 [info]: Connection: keep-alive
+2024-04-22 14:13:45.729146 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:13:45.729153 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:13:45.729172 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:13:45.729180 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:13:45.729188 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:13:45.729196 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:13:45.729204 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:13:45.729212 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:13:45.729220 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:13:45.729227 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:13:45.729234 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:13:45.729241 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:13:45.729249 [info]: Sec-Fetch-Site: none
+2024-04-22 14:13:45.729255 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-04-22 14:13:45.729263 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:13:45.729269 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:13:45.729274 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:13:45.729279 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:13:45.729284 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:13:45.729289 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:13:45.729294 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:13:45.729299 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:13:45.729307 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:13:45.729312 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:13:45.729317 [info]: 
+2024-04-22 14:13:45.729372 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:13:45.729378 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+
+2024-04-22 14:13:45.729384 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:keep-alive
+
+2024-04-22 14:13:45.729389 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:keep-alive
+
+
+2024-04-22 14:13:45.729447 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:13:46.082215 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:13:46.082315 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:13:46.082358 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:13:46.082367 [info]: Connection: keep-alive
+2024-04-22 14:13:46.082373 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:13:46.082378 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:13:46.082384 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:13:46.082389 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:13:46.082396 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:13:46.082404 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:13:46.082411 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:13:46.082418 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:13:46.082425 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:13:46.082430 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:13:46.082435 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:13:46.082440 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:13:46.082445 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:13:46.082450 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:13:46.082464 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:13:46.082469 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:13:46.082474 [info]: Referer: http://127.0.0.1:9010/
+2024-04-22 14:13:46.082479 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/
+2024-04-22 14:13:46.082484 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:13:46.082489 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:13:46.082494 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:13:46.082499 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:13:46.082504 [info]: 
+2024-04-22 14:13:46.082548 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:13:46.082554 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:13:46.082560 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:13:46.082581 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:13:46.082714 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:13:47.501958 [info]: timer tick
+2024-04-22 14:13:58.787291 [info]: timer tick
+2024-04-22 14:14:01.342550 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:14:01.342752 [info]: GET / HTTP/1.1
+2024-04-22 14:14:01.342795 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:14:01.342803 [info]: User-Agent: curl/7.81.0
+2024-04-22 14:14:01.342809 [info]: oop!unknow header: User-Agent: curl/7.81.0
+2024-04-22 14:14:01.342814 [info]: Accept: */*
+2024-04-22 14:14:01.342819 [info]: oop!unknow header: Accept: */*
+2024-04-22 14:14:01.342824 [info]: 
+2024-04-22 14:14:01.342914 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:14:01.342923 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+
+2024-04-22 14:14:01.342928 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:close
+
+2024-04-22 14:14:01.342934 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:close
+
+
+2024-04-22 14:14:01.343030 [info]: close fd 16
+2024-04-22 14:14:03.067145 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:14:03.067232 [info]: GET / HTTP/1.1
+2024-04-22 14:14:03.067281 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:14:03.067293 [info]: Connection: keep-alive
+2024-04-22 14:14:03.067302 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:03.067310 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:03.067317 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:03.067324 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:03.067331 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:03.067338 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:03.067345 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:14:03.067353 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:14:03.067367 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:03.067375 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:03.067383 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:14:03.067390 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:14:03.067398 [info]: Sec-Fetch-Site: none
+2024-04-22 14:14:03.067404 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-04-22 14:14:03.067409 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:14:03.067414 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:14:03.067421 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:14:03.067429 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:14:03.067436 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:14:03.067443 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:14:03.067462 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:03.067468 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:03.067477 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:03.067482 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:03.067487 [info]: 
+2024-04-22 14:14:03.067530 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:14:03.067537 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+
+2024-04-22 14:14:03.067542 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:keep-alive
+
+2024-04-22 14:14:03.067547 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:keep-alive
+
+
+2024-04-22 14:14:03.067670 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:14:03.357535 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:14:03.357638 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:14:03.357686 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:14:03.357697 [info]: Connection: keep-alive
+2024-04-22 14:14:03.357706 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:03.357733 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:03.357743 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:03.357750 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:03.357758 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:03.357766 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:03.357774 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:03.357782 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:03.357790 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:14:03.357798 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:14:03.357806 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:03.357813 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:03.357820 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:14:03.357827 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:14:03.357976 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:14:03.357986 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:14:03.357994 [info]: Referer: http://127.0.0.1:9010/
+2024-04-22 14:14:03.358001 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/
+2024-04-22 14:14:03.358008 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:03.358015 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:03.358023 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:03.358030 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:03.358037 [info]: 
+2024-04-22 14:14:03.358090 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:14:03.358099 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:14:03.358106 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:14:03.358113 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:14:03.358237 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:14:03.787335 [info]: timer tick
+2024-04-22 14:14:07.812205 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:14:07.812325 [info]: POST /1 HTTP/1.1
+2024-04-22 14:14:07.812372 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:14:07.812394 [info]: Connection: keep-alive
+2024-04-22 14:14:07.812400 [info]: Content-Length: 0
+2024-04-22 14:14:07.812406 [info]: Cache-Control: max-age=0
+2024-04-22 14:14:07.812412 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-22 14:14:07.812417 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:07.812432 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:07.812437 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:07.812442 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:07.812447 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:07.812452 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:07.812457 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:14:07.812462 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:14:07.812467 [info]: Origin: http://127.0.0.1:9010
+2024-04-22 14:14:07.812471 [info]: oop!unknow header: Origin: http://127.0.0.1:9010
+2024-04-22 14:14:07.812476 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-22 14:14:07.812482 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:07.812487 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:07.812492 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:14:07.812497 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:14:07.812502 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:07.812507 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:07.812512 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:14:07.812517 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:14:07.812522 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:14:07.812527 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:14:07.812532 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:14:07.812536 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:14:07.812541 [info]: Referer: http://127.0.0.1:9010/
+2024-04-22 14:14:07.812546 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/
+2024-04-22 14:14:07.812551 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:07.812556 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:07.812564 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:07.812569 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:07.812574 [info]: 
+2024-04-22 14:14:07.812619 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:14:07.812625 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+
+2024-04-22 14:14:07.812630 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+2024-04-22 14:14:07.812635 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+
+2024-04-22 14:14:07.812927 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:14:07.989670 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:14:07.989776 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:14:07.989797 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:14:07.989803 [info]: Connection: keep-alive
+2024-04-22 14:14:07.989809 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:07.989814 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:07.989820 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:07.989825 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:07.989830 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:07.989835 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:07.989840 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:07.989845 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:07.989861 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:14:07.989867 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:14:07.989872 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:07.989877 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:07.989882 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:14:07.989887 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:14:07.989892 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:14:07.989897 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:14:07.989902 [info]: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:14:07.989907 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:14:07.989912 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:07.989916 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:07.989922 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:07.989926 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:07.989931 [info]: 
+2024-04-22 14:14:07.989974 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:14:07.989980 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:14:07.989986 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:14:07.989991 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:14:07.990060 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:14:08.787422 [info]: timer tick
+2024-04-22 14:14:12.850809 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:14:12.850894 [info]: POST /2CGISQL.cgi HTTP/1.1
+2024-04-22 14:14:12.850911 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:14:12.850917 [info]: Connection: keep-alive
+2024-04-22 14:14:12.850923 [info]: Content-Length: 22
+2024-04-22 14:14:12.850928 [info]: Cache-Control: max-age=0
+2024-04-22 14:14:12.850933 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-22 14:14:12.850939 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:12.850944 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:12.850949 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:12.850955 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:12.850960 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:12.850964 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:12.850969 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:14:12.850974 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:14:12.850979 [info]: Origin: http://127.0.0.1:9010
+2024-04-22 14:14:12.850984 [info]: oop!unknow header: Origin: http://127.0.0.1:9010
+2024-04-22 14:14:12.850989 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-22 14:14:12.850995 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:12.851000 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:12.851005 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:14:12.851010 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:14:12.851015 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:12.851020 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:12.851025 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:14:12.851030 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:14:12.851035 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:14:12.851040 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:14:12.851053 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:14:12.851059 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:14:12.851064 [info]: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:14:12.851069 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:14:12.851074 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:12.851079 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:12.851087 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:12.851092 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:12.851097 [info]: 
+2024-04-22 14:14:12.851102 [info]: user=6&password=666666
+2024-04-22 14:14:12.851152 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:14:12.851159 [info]: request:HTTP/1.1 200 OK
+Content-Length:842
+
+2024-04-22 14:14:12.851164 [info]: request:HTTP/1.1 200 OK
+Content-Length:842
+Connection:keep-alive
+
+2024-04-22 14:14:12.851185 [info]: request:HTTP/1.1 200 OK
+Content-Length:842
+Connection:keep-alive
+
+
+2024-04-22 14:14:12.851234 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:14:12.976185 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:14:12.976301 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:14:12.976324 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:14:12.976331 [info]: Connection: keep-alive
+2024-04-22 14:14:12.976338 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:12.976346 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:12.976353 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:12.976361 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:12.976369 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:12.976377 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:12.976384 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:12.976391 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:12.976396 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:14:12.976401 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:14:12.976407 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:12.976412 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:12.976416 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:14:12.976421 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:14:12.976426 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:14:12.976431 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:14:12.976436 [info]: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 14:14:12.976441 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 14:14:12.976446 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:12.976451 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:12.976456 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:12.976461 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:12.976465 [info]: 
+2024-04-22 14:14:12.976508 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:14:12.976514 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:14:12.976520 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:14:12.976525 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:14:12.976590 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:14:13.787478 [info]: timer tick
+2024-04-22 14:14:16.272134 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:14:16.272242 [info]: POST /5 HTTP/1.1
+2024-04-22 14:14:16.272285 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:14:16.272294 [info]: Connection: keep-alive
+2024-04-22 14:14:16.272309 [info]: Content-Length: 0
+2024-04-22 14:14:16.272315 [info]: Cache-Control: max-age=0
+2024-04-22 14:14:16.272320 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-22 14:14:16.272326 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:16.272331 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:16.272336 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:16.272341 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:16.272346 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:16.272351 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:16.272356 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:14:16.272361 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:14:16.272366 [info]: Origin: http://127.0.0.1:9010
+2024-04-22 14:14:16.272370 [info]: oop!unknow header: Origin: http://127.0.0.1:9010
+2024-04-22 14:14:16.272386 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-22 14:14:16.272392 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:16.272397 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:16.272403 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:14:16.272408 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:14:16.272413 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:16.272417 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:16.272422 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:14:16.272427 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:14:16.272432 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:14:16.272437 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:14:16.272442 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:14:16.272447 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:14:16.272452 [info]: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 14:14:16.272457 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 14:14:16.272464 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:16.272469 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:16.272474 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:16.272479 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:16.272484 [info]: 
+2024-04-22 14:14:16.272526 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:14:16.272536 [info]: request:HTTP/1.1 200 OK
+Content-Length:458
+
+2024-04-22 14:14:16.272541 [info]: request:HTTP/1.1 200 OK
+Content-Length:458
+Connection:keep-alive
+
+2024-04-22 14:14:16.272546 [info]: request:HTTP/1.1 200 OK
+Content-Length:458
+Connection:keep-alive
+
+
+2024-04-22 14:14:16.272736 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:14:16.309609 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:14:16.309686 [info]: GET /xxx.jpg HTTP/1.1
+2024-04-22 14:14:16.309710 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:14:16.309719 [info]: Connection: keep-alive
+2024-04-22 14:14:16.309728 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:16.309736 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:16.309744 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:16.309752 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:16.309759 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:16.309780 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:16.309789 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:16.309796 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:16.309804 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:14:16.309811 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:14:16.309819 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:16.309827 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:16.309835 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:14:16.309842 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:14:16.309849 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:14:16.309857 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:14:16.309864 [info]: Referer: http://127.0.0.1:9010/5
+2024-04-22 14:14:16.309871 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/5
+2024-04-22 14:14:16.309879 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:16.309886 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:16.309894 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:16.309902 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:16.309909 [info]: 
+2024-04-22 14:14:16.309979 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:14:16.309990 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+
+2024-04-22 14:14:16.309999 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+2024-04-22 14:14:16.310006 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+
+2024-04-22 14:14:16.313585 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:14:16.316422 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:14:18.787610 [info]: timer tick
+2024-04-22 14:14:23.787667 [info]: timer tick
+2024-04-22 14:14:25.586622 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:14:25.586676 [info]: GET /xxx.jpg HTTP/1.1
+2024-04-22 14:14:25.586688 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:14:25.586694 [info]: Connection: keep-alive
+2024-04-22 14:14:25.586699 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:25.586704 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:25.586710 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:14:25.586715 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:14:25.586720 [info]: Sec-Fetch-Dest: empty
+2024-04-22 14:14:25.586725 [info]: oop!unknow header: Sec-Fetch-Dest: empty
+2024-04-22 14:14:25.586730 [info]: Referer: http://127.0.0.1:9010/5
+2024-04-22 14:14:25.586735 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/5
+2024-04-22 14:14:25.586740 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:25.586745 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:25.586750 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:25.586755 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:25.586760 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:25.586765 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:25.586771 [info]: 
+2024-04-22 14:14:25.586807 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:14:25.586813 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+
+2024-04-22 14:14:25.586818 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+2024-04-22 14:14:25.586824 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+
+2024-04-22 14:14:25.589428 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:14:25.591964 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:14:25.692255 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:14:25.692390 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:14:25.692406 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:14:25.692412 [info]: Connection: keep-alive
+2024-04-22 14:14:25.692418 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:25.692423 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:14:25.692428 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:25.692433 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:14:25.692439 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:25.692444 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:14:25.692449 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:25.692454 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:14:25.692459 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:14:25.692464 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:14:25.692469 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:25.692474 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:14:25.692478 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:14:25.692483 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:14:25.692488 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:14:25.692493 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:14:25.692498 [info]: Referer: http://127.0.0.1:9010/5
+2024-04-22 14:14:25.692503 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/5
+2024-04-22 14:14:25.692508 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:25.692513 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:14:25.692518 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:25.692523 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:14:25.692528 [info]: 
+2024-04-22 14:14:25.692571 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:14:25.692578 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:14:25.692583 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:14:25.692588 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:14:25.692685 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:14:28.787743 [info]: timer tick
+2024-04-22 14:14:33.787806 [info]: timer tick
+2024-04-22 14:14:38.787870 [info]: timer tick
+2024-04-22 14:14:43.787941 [info]: timer tick
+2024-04-22 14:14:48.788005 [info]: timer tick
+2024-04-22 14:14:53.788076 [info]: timer tick
+2024-04-22 14:14:58.788131 [info]: timer tick
+2024-04-22 14:15:03.788204 [info]: timer tick
+2024-04-22 14:15:08.788270 [info]: timer tick
+2024-04-22 14:15:13.788335 [info]: timer tick
+2024-04-22 14:15:25.143114 [info]: timer tick
+2024-04-22 14:15:26.518395 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:15:26.518480 [info]: GET / HTTP/1.1
+2024-04-22 14:15:26.518504 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:15:26.518511 [info]: User-Agent: curl/7.81.0
+2024-04-22 14:15:26.518517 [info]: oop!unknow header: User-Agent: curl/7.81.0
+2024-04-22 14:15:26.518522 [info]: Accept: */*
+2024-04-22 14:15:26.518527 [info]: oop!unknow header: Accept: */*
+2024-04-22 14:15:26.518533 [info]: 
+2024-04-22 14:15:26.518584 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:15:26.518598 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+
+2024-04-22 14:15:26.518604 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:close
+
+2024-04-22 14:15:26.518610 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:close
+
+
+2024-04-22 14:15:26.518675 [info]: close fd 16
+2024-04-22 14:15:28.034816 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:15:28.034928 [info]: GET / HTTP/1.1
+2024-04-22 14:15:28.034972 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:15:28.034980 [info]: Connection: keep-alive
+2024-04-22 14:15:28.034986 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:28.034992 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:28.034998 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:28.035003 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:28.035008 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:28.035013 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:28.035018 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:15:28.035023 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:15:28.035029 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:28.035037 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:28.035044 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:15:28.035051 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:15:28.035058 [info]: Sec-Fetch-Site: none
+2024-04-22 14:15:28.035066 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-04-22 14:15:28.035073 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:15:28.035080 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:15:28.035086 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:15:28.035093 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:15:28.035099 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:15:28.035104 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:15:28.035109 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:28.035114 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:28.035123 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:28.035128 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:28.035133 [info]: 
+2024-04-22 14:15:28.035181 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:15:28.035196 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+
+2024-04-22 14:15:28.035201 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:keep-alive
+
+2024-04-22 14:15:28.035206 [info]: request:HTTP/1.1 200 OK
+Content-Length:749
+Connection:keep-alive
+
+
+2024-04-22 14:15:28.035313 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:15:28.430150 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:15:28.430258 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:15:28.430307 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:15:28.430317 [info]: Connection: keep-alive
+2024-04-22 14:15:28.430325 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:28.430333 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:28.430340 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:28.430348 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:28.430355 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:28.430362 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:28.430384 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:28.430391 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:28.430398 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:15:28.430416 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:15:28.430424 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:28.430431 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:28.430439 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:15:28.430446 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:15:28.430454 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:15:28.430462 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:15:28.430469 [info]: Referer: http://127.0.0.1:9010/
+2024-04-22 14:15:28.430477 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/
+2024-04-22 14:15:28.430484 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:28.430492 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:28.430500 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:28.430507 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:28.430514 [info]: 
+2024-04-22 14:15:28.430587 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:15:28.430603 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:15:28.430611 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:15:28.430619 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:15:28.430731 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:15:30.143172 [info]: timer tick
+2024-04-22 14:15:30.303523 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:15:30.303648 [info]: POST /1 HTTP/1.1
+2024-04-22 14:15:30.303715 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:15:30.303728 [info]: Connection: keep-alive
+2024-04-22 14:15:30.303738 [info]: Content-Length: 0
+2024-04-22 14:15:30.303748 [info]: Cache-Control: max-age=0
+2024-04-22 14:15:30.303756 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-22 14:15:30.303764 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:30.303772 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:30.303781 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:30.303789 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:30.303797 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:30.303805 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:30.303812 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:15:30.303865 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:15:30.303875 [info]: Origin: http://127.0.0.1:9010
+2024-04-22 14:15:30.303883 [info]: oop!unknow header: Origin: http://127.0.0.1:9010
+2024-04-22 14:15:30.303891 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-22 14:15:30.303899 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:30.303908 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:30.303916 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:15:30.303924 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:15:30.303945 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:30.303953 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:30.303961 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:15:30.303969 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:15:30.303977 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:15:30.303984 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:15:30.303992 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:15:30.304001 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:15:30.304020 [info]: Referer: http://127.0.0.1:9010/
+2024-04-22 14:15:30.304028 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/
+2024-04-22 14:15:30.304036 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:30.304044 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:30.304056 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:30.304064 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:30.304071 [info]: 
+2024-04-22 14:15:30.304204 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:15:30.304221 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+
+2024-04-22 14:15:30.304230 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+2024-04-22 14:15:30.304259 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+
+2024-04-22 14:15:30.304340 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:15:30.456865 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:15:30.457041 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:15:30.457083 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:15:30.457091 [info]: Connection: keep-alive
+2024-04-22 14:15:30.457097 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:30.457103 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:30.457108 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:30.457113 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:30.457119 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:30.457124 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:30.457129 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:30.457134 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:30.457139 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:15:30.457144 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:15:30.457149 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:30.457154 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:30.457159 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:15:30.457164 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:15:30.457168 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:15:30.457173 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:15:30.457178 [info]: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:15:30.457183 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:15:30.457188 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:30.457193 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:30.457198 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:30.457203 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:30.457208 [info]: 
+2024-04-22 14:15:30.457251 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:15:30.457258 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:15:30.457263 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:15:30.457268 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:15:30.457341 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:15:35.143242 [info]: timer tick
+2024-04-22 14:15:35.410520 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:15:35.410659 [info]: POST /2CGISQL.cgi HTTP/1.1
+2024-04-22 14:15:35.410688 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:15:35.410697 [info]: Connection: keep-alive
+2024-04-22 14:15:35.410706 [info]: Content-Length: 22
+2024-04-22 14:15:35.410714 [info]: Cache-Control: max-age=0
+2024-04-22 14:15:35.410722 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-22 14:15:35.410752 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:35.410761 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:35.410769 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:35.410776 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:35.410784 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:35.410792 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:35.410800 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:15:35.410807 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:15:35.410815 [info]: Origin: http://127.0.0.1:9010
+2024-04-22 14:15:35.410822 [info]: oop!unknow header: Origin: http://127.0.0.1:9010
+2024-04-22 14:15:35.410830 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-22 14:15:35.410839 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:35.410846 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:35.410855 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:15:35.410862 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:15:35.410869 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:35.410877 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:35.410885 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:15:35.410893 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:15:35.410900 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:15:35.410908 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:15:35.410915 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:15:35.410922 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:15:35.410930 [info]: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:15:35.410938 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/1
+2024-04-22 14:15:35.410946 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:35.410953 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:35.410964 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:35.410971 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:35.410978 [info]: 
+2024-04-22 14:15:35.410987 [info]: user=6&password=666666
+2024-04-22 14:15:35.411271 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:15:35.411295 [info]: request:HTTP/1.1 200 OK
+Content-Length:842
+
+2024-04-22 14:15:35.411304 [info]: request:HTTP/1.1 200 OK
+Content-Length:842
+Connection:keep-alive
+
+2024-04-22 14:15:35.411311 [info]: request:HTTP/1.1 200 OK
+Content-Length:842
+Connection:keep-alive
+
+
+2024-04-22 14:15:35.411401 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:15:35.518545 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:15:35.518749 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:15:35.518789 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:15:35.518797 [info]: Connection: keep-alive
+2024-04-22 14:15:35.518803 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:35.518809 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:35.518814 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:35.518819 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:35.518825 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:35.518830 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:35.518844 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:35.518850 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:35.518861 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:15:35.518869 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:15:35.518876 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:35.518884 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:35.518891 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:15:35.518898 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:15:35.518903 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:15:35.518909 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:15:35.518916 [info]: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 14:15:35.518924 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 14:15:35.518931 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:35.518938 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:35.518945 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:35.518952 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:35.518958 [info]: 
+2024-04-22 14:15:35.519010 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:15:35.519016 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:15:35.519022 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:15:35.519027 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:15:35.519149 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:15:37.150917 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:15:37.151026 [info]: POST /7 HTTP/1.1
+2024-04-22 14:15:37.151073 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:15:37.151082 [info]: Connection: keep-alive
+2024-04-22 14:15:37.151088 [info]: Content-Length: 0
+2024-04-22 14:15:37.151093 [info]: Cache-Control: max-age=0
+2024-04-22 14:15:37.151098 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-22 14:15:37.151104 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:37.151109 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:37.151115 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:37.151120 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:37.151125 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:37.151130 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:37.151135 [info]: Upgrade-Insecure-Requests: 1
+2024-04-22 14:15:37.151140 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-22 14:15:37.151145 [info]: Origin: http://127.0.0.1:9010
+2024-04-22 14:15:37.151150 [info]: oop!unknow header: Origin: http://127.0.0.1:9010
+2024-04-22 14:15:37.151155 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-22 14:15:37.151160 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:37.151165 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:37.151171 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:15:37.151176 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-22 14:15:37.151181 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:37.151186 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:37.151191 [info]: Sec-Fetch-Mode: navigate
+2024-04-22 14:15:37.151195 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-04-22 14:15:37.151209 [info]: Sec-Fetch-User: ?1
+2024-04-22 14:15:37.151215 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-04-22 14:15:37.151220 [info]: Sec-Fetch-Dest: document
+2024-04-22 14:15:37.151225 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-04-22 14:15:37.151230 [info]: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 14:15:37.151235 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/2CGISQL.cgi
+2024-04-22 14:15:37.151244 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:37.151252 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:37.151259 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:37.151267 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:37.151272 [info]: 
+2024-04-22 14:15:37.151315 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:15:37.151322 [info]: request:HTTP/1.1 200 OK
+Content-Length:392
+
+2024-04-22 14:15:37.151327 [info]: request:HTTP/1.1 200 OK
+Content-Length:392
+Connection:keep-alive
+
+2024-04-22 14:15:37.151332 [info]: request:HTTP/1.1 200 OK
+Content-Length:392
+Connection:keep-alive
+
+
+2024-04-22 14:15:37.151452 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:15:37.189348 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:15:37.189427 [info]: GET /test1.jpg HTTP/1.1
+2024-04-22 14:15:37.189465 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:15:37.189475 [info]: Connection: keep-alive
+2024-04-22 14:15:37.189482 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:37.189489 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:37.189503 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:37.189511 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:37.189517 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:37.189522 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:37.189528 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:37.189533 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:37.189538 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:15:37.189543 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:15:37.189549 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:37.189553 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:37.189559 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:15:37.189564 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:15:37.189569 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:15:37.189574 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:15:37.189579 [info]: Referer: http://127.0.0.1:9010/7
+2024-04-22 14:15:37.189583 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/7
+2024-04-22 14:15:37.189589 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:37.189594 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:37.189598 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:37.189603 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:37.189608 [info]: 
+2024-04-22 14:15:37.189663 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:15:37.189673 [info]: request:HTTP/1.1 200 OK
+Content-Length:78443
+
+2024-04-22 14:15:37.189679 [info]: request:HTTP/1.1 200 OK
+Content-Length:78443
+Connection:keep-alive
+
+2024-04-22 14:15:37.189684 [info]: request:HTTP/1.1 200 OK
+Content-Length:78443
+Connection:keep-alive
+
+
+2024-04-22 14:15:37.189901 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:15:37.303770 [info]: deal with the client(127.0.0.1)
+2024-04-22 14:15:37.303846 [info]: GET /favicon.ico HTTP/1.1
+2024-04-22 14:15:37.303884 [info]: Host: 127.0.0.1:9010
+2024-04-22 14:15:37.303904 [info]: Connection: keep-alive
+2024-04-22 14:15:37.303910 [info]: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:37.303916 [info]: oop!unknow header: sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+2024-04-22 14:15:37.303921 [info]: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:37.303926 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-04-22 14:15:37.303931 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:37.303936 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36
+2024-04-22 14:15:37.303942 [info]: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:37.303947 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2024-04-22 14:15:37.303952 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:15:37.303957 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-22 14:15:37.303962 [info]: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:37.303967 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-04-22 14:15:37.303972 [info]: Sec-Fetch-Mode: no-cors
+2024-04-22 14:15:37.303977 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-04-22 14:15:37.303982 [info]: Sec-Fetch-Dest: image
+2024-04-22 14:15:37.303987 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-04-22 14:15:37.303992 [info]: Referer: http://127.0.0.1:9010/7
+2024-04-22 14:15:37.303996 [info]: oop!unknow header: Referer: http://127.0.0.1:9010/7
+2024-04-22 14:15:37.304001 [info]: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:37.304006 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-04-22 14:15:37.304011 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:37.304016 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-04-22 14:15:37.304023 [info]: 
+2024-04-22 14:15:37.304080 [info]: request:HTTP/1.1 200 OK
+
+2024-04-22 14:15:37.304092 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-04-22 14:15:37.304099 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-04-22 14:15:37.304104 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-04-22 14:15:37.304172 [info]: send data to the client(127.0.0.1)
+2024-04-22 14:15:40.143302 [info]: timer tick
+2024-04-22 14:15:45.143358 [info]: timer tick
+2024-04-22 14:15:50.143424 [info]: timer tick
+2024-04-22 14:15:55.143478 [info]: timer tick
+2024-04-22 14:16:00.143531 [info]: timer tick
+2024-04-22 14:16:05.143591 [info]: timer tick
+2024-04-22 14:16:10.143650 [info]: timer tick
+2024-04-22 14:16:15.143724 [info]: timer tick
+2024-04-22 14:16:20.143778 [info]: timer tick
+2024-04-22 14:16:25.143846 [info]: timer tick
+2024-04-22 14:16:30.143919 [info]: timer tick
+2024-04-22 14:16:35.144008 [info]: timer tick
+2024-04-22 14:16:40.144084 [info]: timer tick
+2024-04-22 14:16:45.144138 [info]: timer tick
+2024-04-22 14:16:50.144201 [info]: timer tick
+2024-04-22 14:16:55.144279 [info]: timer tick
+2024-04-22 14:17:00.144344 [info]: timer tick
+2024-04-22 14:17:05.144420 [info]: timer tick
+2024-04-22 14:17:10.144471 [info]: timer tick
+2024-04-22 14:17:15.144545 [info]: timer tick
+2024-04-22 14:17:20.144603 [info]: timer tick
+2024-04-22 14:17:25.144675 [info]: timer tick
+2024-04-22 14:17:30.144742 [info]: timer tick
+2024-04-22 14:17:35.144808 [info]: timer tick
+2024-04-22 14:17:40.144880 [info]: timer tick
+2024-04-22 14:17:45.144935 [info]: timer tick
