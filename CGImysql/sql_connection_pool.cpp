@@ -33,7 +33,7 @@ void connection_pool::init(string url, string User, string PassWord, string DBNa
 	m_DatabaseName = DBName;
 	m_close_log = close_log;
 
-	for (int i = 0; i < MaxConn; i++)
+	for (int i = 0; i < MaxConn; i++) // 比如数据库连接池的大小是10，那么这里就是初始化10条连接
 	{
 		MYSQL *con = NULL;
 		con = mysql_init(con); // MYSQL类型变量为con，利用mysql_init()语句初始化这个变量。这里用的地址&
