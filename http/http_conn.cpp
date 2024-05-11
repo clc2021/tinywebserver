@@ -658,6 +658,16 @@ http_conn::HTTP_CODE http_conn::do_request()
         return BAD_REQUEST;
 
     //以只读方式获取文件描述符，通过mmap将该文件映射到内存中
+    /*
+    这行代码使用 mmap 函数将一个文件映射到进程的虚拟地址空间中，使得文件的内容可以直接通过内存访问。让我们逐个参数进行分析：
+0：指定新映射的起始地址。由于传入了 0，表示由内核自动选择合适的地址。
+m_file_stat.st_size：指定要映射的长度，通常为文件的大小，m_file_stat 是一个结构体变量，用于保存文件的状态信息，st_size 表示文件的大小。
+PROT_READ：指定了映射区域的内存保护方式为只读，即该映射区域可以被读取但不能被写入。
+MAP_PRIVATE：指定了映射方式为私有映射，表示进程对映射区域的修改不会影响到原文件，同时其他进程对同一文件的映射也不会受到影响。这意味着对映射区域的写入操作会创建一个新的拷贝，而不会影响到原文件。
+fd：文件描述符，指定了要映射的文件。
+0：文件中的偏移量，指定从文件的哪个位置开始映射数据。在这里是从文件的开头开始映射。
+最后，将 mmap 的返回值强制转换为 char* 类型，并赋值给 m_file_address，表示将文件映射的起始地址保存在了 m_file_address 变量中，以便后续访问文件内容。
+    */
     int fd = open(m_real_file, O_RDONLY);
     m_file_address = (char *)mmap(0, m_file_stat.st_size, PROT_READ, MAP_PRIVATE, fd, 0);
     close(fd);

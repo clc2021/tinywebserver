@@ -14,7 +14,7 @@
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <sys/mman.h>
+#include <sys/mman.h> // 用于内存映射的
 #include <stdarg.h>
 #include <errno.h>
 #include <sys/wait.h>
