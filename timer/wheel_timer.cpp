@@ -77,9 +77,9 @@ void time_wheel::tick() {
             tmp->rotation--; 
             tmp = tmp->next;
         }
+
         //接着直接cur_slot = ++cur_slot % N; eg. cur_slot=0 cur_slot更新为1
         // 否则，说明定时器已经到期，于是执行定时任务，然后删除该定时器
-
         else { // tmp->rotation=0
             tmp->cb_func(tmp->user_data);
             if(tmp == slots[cur_slot]) {
