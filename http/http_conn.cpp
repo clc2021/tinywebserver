@@ -22,13 +22,10 @@ map<string, string> users; // users也就是登陆用户是通过：密码--登�
 void http_conn::initmysql_result(connection_pool *connPool)
 {
     //先从连接池中取一个连接
-    // C++的mysql库。连接数据库之前，先创建MYSQL变量，它在很多库函数中会用到，包含一些连接信息等数据。
-    // MYSQL *mysql_init(MYSQL *mysql); 下面这句其实按照这个来的
     MYSQL *mysql = NULL; 
     connectionRAII mysqlcon(&mysql, connPool);
 
-    //在user表中检索username，passwd数据，浏览器端输入
-    // mysql_query()：查询成功返回0 不成功返回非零值
+    // 在user表中检索username，passwd数据，浏览器端输入。mysql_query()：查询成功返回0 不成功返回非零值
     if (mysql_query(mysql, "SELECT username,passwd FROM user"))
     {
         LOG_ERROR("SELECT error:%s\n", mysql_error(mysql));

@@ -1,14 +1,15 @@
 #include "wheel_timer.h"
 #include "../http/http_conn.h"
 
-time_wheel :: time_wheel():cur_slot(0) 
+////////////////////////////////////// 时间轮 ////////////////////////////////////// 
+time_wheel::time_wheel():cur_slot(0) 
 {
     for(int i = 0; i < N; ++i) {
         slots[i] = NULL; // 初始化每个槽的头结点
     }
 }
 
-time_wheel :: ~time_wheel() 
+time_wheel::~time_wheel() 
 {
     // 遍历每个槽，并销毁其中的定时器
     for(int i = 0; i < N; ++i) {
@@ -22,7 +23,8 @@ time_wheel :: ~time_wheel()
 }
 
 // 这里的timeout是加入时候的系统时间+15s
-void time_wheel :: add_timer(time_t timeout, tw_timer * timer) { // 把tw_timer*改了
+// 150000+15
+void time_wheel::add_timer(time_t timeout, tw_timer * timer) { // 把tw_timer*改了
     if(timeout < 0) {
         return ;
     }
@@ -34,21 +36,21 @@ void time_wheel :: add_timer(time_t timeout, tw_timer * timer) { // 把tw_timer*
     }
     int rotation = ticks / N; // 计算转多少圈
     int ts = (cur_slot + (ticks % N)) % N; // 计算槽位
-    // 创建新的定时器，它在时间轮转动rotation圈之后被触发，且位于第ts个槽上
+    // 创建新的定时器，它在时间轮转动rotation圈之后被触发，且位于第ts个槽上。
     //tw_timer * timer = new tw_timer(rotation, ts);
     timer->rotation = rotation;
     timer->time_slot = ts;
     if(!slots[ts]) {
         slots[ts] = timer;
-    } else {
-        timer->next = slots[ts];
+    } else { // slots[ts]这个槽不空
+        timer->next = slots[ts]; // ? 这里是头插吗
         slots[ts]->prev = timer;
         slots[ts] = timer;
     }
     //return timer;
 }
 
-void time_wheel :: del_timer(tw_timer * timer) {
+void time_wheel::del_timer(tw_timer * timer) {
     if(!timer) {
         return;
     }
@@ -59,7 +61,7 @@ void time_wheel :: del_timer(tw_timer * timer) {
             slots[ts]->prev = NULL;
         }
         delete timer;
-    } else {
+    } else { // timer = slots[ts]
         timer->prev->next = timer->next;
         if(timer->next) {
             timer->next->prev = timer->prev;
@@ -68,7 +70,7 @@ void time_wheel :: del_timer(tw_timer * timer) {
     }
 }
 
-void time_wheel :: tick() { // SI时间到后，调用该函数，时间轮向前滚动一个槽的间隔
+void time_wheel::tick() {
     tw_timer * tmp = slots[cur_slot];
     while(tmp) {                                  
         if(tmp->rotation > 0) { //先挨个转圈减圈数，到下一个节点；极端情况下转一圈减一圈扩一圈
@@ -77,6 +79,7 @@ void time_wheel :: tick() { // SI时间到后，调用该函数，时间轮向�
         }
         //接着直接cur_slot = ++cur_slot % N; eg. cur_slot=0 cur_slot更新为1
         // 否则，说明定时器已经到期，于是执行定时任务，然后删除该定时器
+
         else { // tmp->rotation=0
             tmp->cb_func(tmp->user_data);
             if(tmp == slots[cur_slot]) {
@@ -97,9 +100,11 @@ void time_wheel :: tick() { // SI时间到后，调用该函数，时间轮向�
             }
         }
     }
-    cur_slot = ++cur_slot % N;/*更新时间轮的当前槽，以反映时间轮的转动*/
+
+    cur_slot = ++cur_slot % N; // 更新时间轮的当前槽，以反应时间轮的转动
 }
 
+////////////////////////////////////// Utils ////////////////////////////////////// 
 void Utils::init(int timeslot)
 {
     m_TIMESLOT = timeslot;
@@ -134,6 +139,7 @@ void Utils::addfd(int epollfd, int fd, bool one_shot, int TRIGMode)
 }
 
 //信号处理函数：可以看到Utils是信号处理函数主要干一个事：往管道写端写入信号sig。
+
 void Utils::sig_handler(int sig) 
 {
     //为保证函数的可重入性，保留原来的errno
@@ -183,11 +189,11 @@ class Utils;
 //定时器回调函数
 void cb_func(client_data *user_data) // 删除监听的fd, 关闭，减少连接数
 {
-    //删除非活动连接在socket上的注册事件.
+    // 删除非活动连接在socket上的注册事件。
     epoll_ctl(Utils::u_epollfd, EPOLL_CTL_DEL, user_data->sockfd, 0);
     assert(user_data);
-    //关闭文件描述符
+    // 关闭文件描述符。
     close(user_data->sockfd);
-    //减少连接数
+    // 减少连接数。
     http_conn::m_user_count--;
 }

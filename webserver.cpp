@@ -85,15 +85,12 @@ void WebServer::log_write()
     }
 }
 
+// 无比重要的3句代码：获得数据库连接池单例 ——> 初始化连接池创造多个连接 ——> 从数据表中加载数据
 void WebServer::sql_pool()
 {
-    //初始化数据库连接池
     m_connPool = connection_pool::GetInstance();
-    // init(string url, string User, string PassWord, string DBName, int Port, int MaxConn, int close_log)
+    // init(url, User="root", PassWord="17441027Da", DBName="tinydb", Port=3306)
     m_connPool->init("localhost", m_user, m_passWord, m_databaseName, 3306, m_sql_num, m_close_log);
-
-    //初始化数据库读取表, connection_pool类里没有这个函数, 在http_conn里
-    //initmysql_result(connection_pool *connPool)
     users->initmysql_result(m_connPool);
 }
 
@@ -159,7 +156,7 @@ void WebServer::eventListen()
     // 传递给主循环的信号值，这里只关注SIGALRM和SIGTERM
     utils.addsig(SIGPIPE, SIG_IGN);
     utils.addsig(SIGALRM, utils.sig_handler, false);
-    utils.addsig(SIGTERM, utils.sig_handler, false);
+    utils.addsig(SIGTERM, utils.sig_handler, false); 
 
     alarm(TIMESLOT);
 
@@ -257,7 +254,7 @@ bool WebServer::dealwithsignal(bool &timeout, bool &stop_server)
     int ret = 0;
     int sig;
     char signals[1024];
-    ret = recv(m_pipefd[0], signals, sizeof(signals), 0);
+    ret = recv(m_pipefd[0], signals, sizeof(signals), 0); // 从管道的读端读取信号
     if (ret == -1)
     {
         return false;
@@ -367,6 +364,7 @@ void WebServer::dealwithwrite(int sockfd)
     }
 }
 
+////////////////////////////////////////////////////////////////////////////////
 void WebServer::eventLoop()
 {
     bool timeout = false;

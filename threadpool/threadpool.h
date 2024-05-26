@@ -34,6 +34,7 @@ private:
     int m_actor_model;          
 };
 
+// reactor还是proactor? 数据库 线程数量 最大请求数量
 template <typename T>
 threadpool<T>::threadpool(int actor_model, connection_pool *connPool, int thread_number, int max_requests) : m_actor_model(actor_model),m_thread_number(thread_number), m_max_requests(max_requests), m_threads(NULL),m_connPool(connPool)
 {
@@ -43,7 +44,7 @@ threadpool<T>::threadpool(int actor_model, connection_pool *connPool, int thread
     if (!m_threads)
         throw std::exception();
     for (int i = 0; i < thread_number; ++i) // thread_number为线程数量，这里为8
-    {
+    { // 线程数组[i]，nullptr，函数，this指针传给静态
         if (pthread_create(m_threads + i, NULL, worker, this) != 0) // 在调用它的进程中创建1个线程
         {
             delete[] m_threads;
@@ -142,11 +143,12 @@ void threadpool<T>::run()
                     request->timer_flag = 1;
                 }
             }
-        }
+        } // reactor模式结束
+
         else // proactor模式
         {
             connectionRAII mysqlcon(&request->mysql, m_connPool);
-            request->process();
+            request->process(); // proactor模式，只处理客户请求
         }
     }
 }

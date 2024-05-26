@@ -24,36 +24,31 @@
 #include <time.h>
 #include "../log/log.h"
 
-//连接资源结构体成员需要用到定时器类
-//需要前向声明
+/////////////////////////////////////// 时间轮 /////////////////////////////////////// 
 class tw_timer;
 
-//连接资源
-struct client_data
+struct client_data // 连接资源
 {
     sockaddr_in address; //客户端socket地址
     int sockfd; //socket文件描述符
     tw_timer * timer; //定时器
 };  
 
-// 定时器类
-class tw_timer
+class tw_timer // 定时器类
 {
 public:
     tw_timer(int rot, int ts): next(NULL), prev(NULL), rotation(rot), time_slot(ts) {}
+
 public:
-    int rotation; // 记录定时器在时间轮转多少圈后生效
-    int time_slot; // 记录定时器属于时间轮上哪个槽（对应的链表，下同）
-    void(*cb_func)(client_data *); // 定时器回调函数
-    client_data * user_data; // 客户数据
-    tw_timer * next; // 指向下一个定时器
-    tw_timer * prev; // 指向前一个定时器
+    int rotation; // 记录定时器在时间轮转多少圈后生效。
+    int time_slot; // 记录定时器属于时间轮上哪个槽（对应的链表，下同）。
+    void(*cb_func)(client_data *); // 定时器回调函数。
+    client_data * user_data; // 客户数据。
+    tw_timer * next; // 指向下一个定时器。
+    tw_timer * prev; // 指向前一个定时器。
 };
 
-// 时间轮：添加定时器，减少定时器，tick()一下。
-// 硬要说的话，时间轮实际上就是定时器围成的轮子。
-// 每次添加看下当前时间轮的槽。
-class time_wheel
+class time_wheel // 时间轮
 {
 public:
     time_wheel();
@@ -62,6 +57,7 @@ public:
     void add_timer(time_t timeout, tw_timer * timer);
     void del_timer(tw_timer * timer);
     void tick();
+    
 private:
     static const int N = 60; // 时间轮上槽的数目
     static const int SI = 1; // 每1s时间轮转动一次，即槽间隔为1s
@@ -69,6 +65,7 @@ private:
     int cur_slot; // 时间轮的当前槽
 };
 
+/////////////////////////////////////// 工具类 /////////////////////////////////////// 
 class Utils
 {
 public:
